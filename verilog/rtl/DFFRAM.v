@@ -11,11 +11,11 @@ module DFFRAM(
     input EN,
     input [31:0] Di,
     output reg [31:0] Do,
-    input [7:0] A
+    input [5:0] A
 );
   
 
-reg [31:0] mem [0:`MEM_WORDS-1];
+reg [31:0] mem [0:63];
 
 always @(posedge CLK) begin
     if (EN == 1'b1) begin
@@ -49,7 +49,7 @@ module DFFRAM #( parameter COLS=1)
     input           EN;
     input   [31:0]  Di;
     output  [31:0]  Do;
-    input   [7+$clog2(COLS):0]   A;
+    input   [5+$clog2(COLS):0]   A;
 
 `ifdef USE_POWER_PINS
     input VPWR;
@@ -73,7 +73,7 @@ module DFFRAM #( parameter COLS=1)
                                     .EN(EN_lines[i]), 
                                     .Di(Di), 
                                     .Do(DOUT[i]), 
-                                    .A(A[7:0]) 
+                                    .A(A[5:0]) 
                                 );    
         end
         if(COLS==4) begin

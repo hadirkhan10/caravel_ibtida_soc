@@ -4,35 +4,39 @@
 
 `include "caravel.v"
 `include "spiflash.v"
+`include "tbprog.v"
 
-module ibtida_test_tb;
+module Ibtida_test_tb;
 	reg clock;
     	reg RSTB;
 	reg power1, power2;
 	reg power3, power4;
 
-    	wire gpio;
-    	wire [37:0] mprj_io;
-	wire [7:0] mprj_io_0;
+	wire gpio;
+  wire [37:0] mprj_io;
 
-	assign mprj_io_0 = mprj_io[7:0];
+	// wire [7:0] mprj_io_0;
+	wire mprj_ready;
+
+	// assign mprj_io_0 = mprj_io[7:0];
+	assign mprj_ready = mprj_io[37];
 
 	// External clock is used by default.  Make this artificially fast for the
 	// simulation.  Normally this would be a slow clock and the digital PLL
 	// would be the fast clock.
 
-	always #12.5 clock <= (clock === 1'b0);
+	always #50 clock <= (clock === 1'b0);
 
 	initial begin
 		clock = 0;
 	end
 
 	initial begin
-		$dumpfile("ibtida_test.vcd");
-		$dumpvars(0, ibtida_test_tb);
+		$dumpfile("Ibtida_test.vcd");
+		$dumpvars(0, Ibtida_test_tb);
 
 		// Repeat cycles of 1000 clock edges as needed to complete testbench
-		repeat (35) begin
+		repeat (300) begin
 			repeat (1000) @(posedge clock);
 			// $display("+1000 cycles");
 		end
@@ -44,7 +48,7 @@ module ibtida_test_tb;
 
 	initial begin
 	    // Observe Output pins [7:0]
-	    wait(mprj_io_0 == 8'h05);
+	    wait(mprj_ready == 1'b1);
 	   // wait(mprj_io_0 == 8'h06);
 	    // wait(mprj_io_0 == 8'h03);
     	//     wait(mprj_io_0 == 8'h04);
@@ -90,6 +94,8 @@ module ibtida_test_tb;
 	wire flash_clk;
 	wire flash_io0;
 	wire flash_io1;
+	wire r_Rx_Serial;
+	assign mprj_io[5] = r_Rx_Serial;
 
 
 
@@ -135,6 +141,13 @@ module ibtida_test_tb;
 		.io1(flash_io1),
 		.io2(),			// not used
 		.io3()			// not used
+	);
+
+	tbprog #(
+		.FILENAME("/home/hadirkhan10/Desktop/program.hex")
+	) prog_uut (
+		.mprj_ready (mprj_ready),
+		.r_Rx_Serial (r_Rx_Serial)
 	);
 
 endmodule
