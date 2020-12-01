@@ -144,7 +144,7 @@ module Ibtida_test_tb;
 	);
 
 	tbprog #(
-		.FILENAME("/home/hadirkhan10/Desktop/program.hex")
+		.FILENAME("/home/merl/Desktop/program.hex")
 	) prog_uut (
 		.mprj_ready (mprj_ready),
 		.r_Rx_Serial (r_Rx_Serial)

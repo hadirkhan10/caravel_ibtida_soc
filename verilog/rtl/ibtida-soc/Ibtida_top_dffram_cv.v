@@ -8858,6 +8858,10 @@ module Ibtida_top_dffram_cv(
   assign WE_DCCM = {dccm_io_we_i_3, dccm_io_we_i_2, dccm_io_we_i_1, dccm_io_we_i_0};
 
   DFFRAM #(1) DCCM(
+    `ifdef USE_POWER_PINS
+        .VPWR(vccd1),
+        .VGND(vssa1),
+    `endif
     .CLK(clock),
     .WE(WE_DCCM),
     .EN(EN),
@@ -8865,9 +8869,9 @@ module Ibtida_top_dffram_cv(
     .Do(dout),
     .A(DCCM_A)
   );
-  
+
   // dffram for instruction memory
-  
+
   wire [3:0] WE_ICCM;
   wire [31:0] ICCM_di;
   wire [5:0] ICCM_A;
@@ -8877,6 +8881,10 @@ module Ibtida_top_dffram_cv(
   assign WE_ICCM = {iccm_io_we_i_3, iccm_io_we_i_2, iccm_io_we_i_1, iccm_io_we_i_0};
 
   DFFRAM #(1) ICCM(
+    `ifdef USE_POWER_PINS
+        .VPWR(vccd1),
+        .VGND(vssa1),
+    `endif
     .CLK(clock),
     .WE(WE_ICCM),
     .EN(EN),
