@@ -1,0 +1,60 @@
+2020.11.25 20:30:52 INFO  Started: Metals version 0.9.6 in workspace '/home/sajjad/Documents/Test_SoC' for client vscode.
+2020.11.25 20:30:54 INFO  time: initialize in 2.87s
+2020.11.25 20:30:55 WARN  Build server is not auto-connectable.
+2020.11.25 20:30:55 WARN  no build tool detected in workspace '/home/sajjad/Documents/Test_SoC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.25 20:30:55 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.11.25 20:31:00 INFO  no build target: using presentation compiler with only scala-library
+2020.11.25 20:42:42 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Core.scala
+2020.11.25 20:44:18 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 20:59:41 WARN  no build target for: /home/sajjad/Shaheen/src/main/scala/shaheen_soc/ShaheenTop.scala
+2020.11.25 21:13:44 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:17:16 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/csrs/CsrRegFields.scala
+2020.11.25 21:17:26 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/csrs/CsrRegisterFile.scala
+2020.11.25 21:18:37 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:43 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:48 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:51 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:53 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:55 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:18:59 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:19:02 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:19:08 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:19:12 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.25 21:19:16 WARN  no build target for: /home/sajjad/Shaheen/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:41:54 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:35 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:42 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:45 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:49 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:51 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:53 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:56 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:42:58 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:43:05 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:43:07 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:43:11 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:44:17 WARN  no build target for: /home/sajjad/Ibtida/src/main/scala/shaheen_soc/ShaheenTop.scala
+2020.11.26 11:45:21 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/csrs/CsrRegFields.scala
+2020.11.26 11:45:30 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/csrs/CsrRegisterFile.scala
+2020.11.26 11:45:56 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 11:47:33 WARN  no build target for: /home/sajjad/Ibtida/src/test/scala/shaheen_soc/ShaheenTest.scala
+2020.11.26 11:49:05 WARN  no build target for: /home/sajjad/Ibtida/src/test/scala/shaheen_soc/ShaheenTest.scala
+2020.11.26 11:49:09 WARN  no build target for: /home/sajjad/Ibtida/src/test/scala/shaheen_soc/ShaheenTest.scala
+2020.11.26 12:10:22 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+Nov 26, 2020 12:10:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 705
+Nov 26, 2020 12:14:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 739
+2020.11.26 12:15:12 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:15:13 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:15:20 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:15:21 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:15:30 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:15:34 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:17:39 INFO  shutting down Metals
+2020.11.26 12:18:08 INFO  Started: Metals version 0.9.6 in workspace '/home/sajjad/Documents/Test_SoC' for client vscode.
+2020.11.26 12:18:12 INFO  time: initialize in 4.23s
+2020.11.26 12:18:13 WARN  Build server is not auto-connectable.
+2020.11.26 12:18:13 WARN  no build tool detected in workspace '/home/sajjad/Documents/Test_SoC'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.26 12:18:13 WARN  no build target for: /home/sajjad/Ibtida/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.11.26 12:18:18 INFO  no build target: using presentation compiler with only scala-library

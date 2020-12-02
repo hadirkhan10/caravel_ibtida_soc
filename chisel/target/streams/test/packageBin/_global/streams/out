@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/shaheen_2.12-0.5.0-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gpio[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/gpio[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gpio/GpioTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/gpio/GpioTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibtida_soc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/ibtida_soc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibtida_soc/IbtidaTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/ibtida_soc/IbtidaTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibtida_soc/IbtidaTestDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/ibtida_soc/IbtidaTestDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibtida_soc/IbtidaTestDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/ibtida_soc/IbtidaTestDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibtida_soc/IbtidaTestDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/ibtida_soc/IbtidaTestDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primitives[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/primitives[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primitives/FifoTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/primitives/FifoTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primitives/FlopSyncTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/primitives/FlopSyncTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primitives/IntrHardwareTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/primitives/IntrHardwareTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	primitives/SubRegTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/primitives/SubRegTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uart[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/uart[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uart/UartTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mbp/Desktop/merl/Ibtida/target/scala-2.12/test-classes/uart/UartTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,1 @@
+["primitives.FifoTest","primitives.SubRegTest","uart.UartTest","primitives.IntrHardwareTest","primitives.FlopSyncTest","gpio.GpioTest"]

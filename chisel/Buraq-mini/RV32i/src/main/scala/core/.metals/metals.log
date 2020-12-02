@@ -1,0 +1,2177 @@
+2020.09.13 01:53:57 INFO  started: Metals version 0.9.3 in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core' for client vscode.
+2020.09.13 01:53:59 INFO  time: initialize in 2.33s
+2020.09.13 01:54:00 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.13 01:54:00 INFO  no build target: using presentation compiler with only scala-library
+2020.09.13 01:54:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:55:00 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:55:32 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:55:39 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:55:44 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:55:57 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:55:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:56:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:56:04 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:56:06 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:56:09 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.13 01:56:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/IF_ID.scala
+2020.09.13 01:57:45 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:57:47 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:58:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:58:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:58:21 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 01:58:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:00:09 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Core.scala
+2020.09.13 02:08:56 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:06 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:09 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:09:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:10:36 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:10:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:11 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:35 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:11:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:12 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:16 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:18 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:23 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:26 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:38 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:12:57 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:15:42 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 02:23:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:23:56 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:26:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Load_unitTests.scala
+2020.09.13 02:28:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:29:26 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/PcTests.scala
+2020.09.13 02:29:32 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/PcTests.scala
+2020.09.13 02:29:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/PcTests.scala
+2020.09.13 02:29:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/FetchTests.scala
+2020.09.13 02:29:51 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/FetchTests.scala
+2020.09.13 02:40:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:40:32 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:40:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/test/scala/core/Launcher.scala
+2020.09.13 02:40:47 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.13 02:40:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.13 02:40:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.13 02:43:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.13 04:28:23 INFO  shutting down Metals
+2020.09.14 01:35:11 INFO  started: Metals version 0.9.3 in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core' for client vscode.
+2020.09.14 01:35:13 INFO  time: initialize in 2.04s
+2020.09.14 01:35:14 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 01:35:14 INFO  no build target: using presentation compiler with only scala-library
+2020.09.14 01:35:18 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.14 01:35:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 03:19:03 INFO  shutting down Metals
+2020.09.14 12:49:54 INFO  started: Metals version 0.9.3 in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core' for client vscode.
+2020.09.14 12:49:56 INFO  time: initialize in 2.28s
+2020.09.14 12:49:57 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 12:49:57 INFO  no build target: using presentation compiler with only scala-library
+2020.09.14 12:50:00 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:50:45 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:52:05 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 12:52:21 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:31 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:33 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:35 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:42 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:44 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 12:52:44 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 12:52:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:57 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:52:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:53:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:53:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:53:35 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:54:11 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:58:42 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:58:51 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 12:59:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 12:59:54 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 13:00:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 13:00:11 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 13:00:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 13:00:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 13:00:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 13:01:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 13:01:36 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.14 13:02:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/RegisterFile.scala
+2020.09.14 13:02:11 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/RegisterFile.scala
+2020.09.14 13:02:35 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/RegisterFile.scala
+2020.09.14 13:02:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/RegisterFile.scala
+2020.09.14 13:02:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Fetch.scala
+2020.09.14 13:03:13 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Pc.scala
+2020.09.14 13:03:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 13:03:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 13:03:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 13:03:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 13:03:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 13:04:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:04:20 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:04:44 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:04:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:04:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:04:56 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/InstructionTypeDecode.scala
+2020.09.14 13:05:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:39 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:47 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:05:49 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ControlDecode.scala
+2020.09.14 13:06:32 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Control.scala
+2020.09.14 13:06:39 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Control.scala
+2020.09.14 13:06:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Control.scala
+2020.09.14 13:07:12 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Control.scala
+2020.09.14 13:07:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 13:07:51 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 13:08:05 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 14, 2020 1:08:05 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 14, 2020 1:08:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <EX_MEM_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <MEM_WB_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_rs1_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_rs2_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <EX_MEM_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <MEM_WB_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_OpA_sel: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ID_EX_ctrl_OpB_sel: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_pc4: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_pc_out: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_rs1: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_rs2: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <EX_MEM_alu_output: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <writeback_write_data: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_ctrl_AluOp: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ID_EX_func7: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ID_EX_func3: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <ID_EX_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_ctrl_MemWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_MemRd: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_MemToReg: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <alu_output: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemRd_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class Execute
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class Execute extends Module {
+     6   val io = IO(new Bundle {
+     7     val EX_MEM_rd_sel = Input(UInt(5.W))
+     8     val MEM_WB_rd_sel = Input(UInt(5.W))
+     9     val ID_EX_rs1_sel = Input(UInt(5.W))
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <EX_MEM_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <MEM_WB_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_rs1_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_rs2_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <EX_MEM_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <MEM_WB_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_OpA_sel: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ID_EX_ctrl_OpB_sel: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_pc4: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_pc_out: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_rs1: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_rs2: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <EX_MEM_alu_output: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <writeback_write_data: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <ID_EX_ctrl_AluOp: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ID_EX_func7: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ID_EX_func3: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <ID_EX_rd_sel: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ID_EX_ctrl_MemWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_MemRd: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_RegWr: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ID_EX_ctrl_MemToReg: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <alu_output: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemRd_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class Execute
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class Execute extends Module {
+     6   val io = IO(new Bundle {
+     7     val EX_MEM_rd_sel = Input(UInt(5.W))
+     8     val MEM_WB_rd_sel = Input(UInt(5.W))
+     9     val ID_EX_rs1_sel = Input(UInt(5.W))
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:111)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.09.14 13:08:15 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 13:08:18 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/AluControl.scala
+2020.09.14 13:08:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/AluControl.scala
+2020.09.14 13:08:36 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/AluControl.scala
+2020.09.14 13:08:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/AluControl.scala
+2020.09.14 13:08:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/AluControl.scala
+2020.09.14 13:10:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/BranchLogic.scala
+2020.09.14 13:10:16 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ImmediateGeneration.scala
+2020.09.14 13:10:21 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 13:10:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Store_unit.scala
+2020.09.14 13:10:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/WriteBack.scala
+2020.09.14 13:11:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ImmediateGeneration.scala
+2020.09.14 13:16:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Staller.scala
+2020.09.14 13:18:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:09:58 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:10:02 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:10:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:10:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:10:53 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:10:54 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:10:55 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:10:55 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:10:56 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:01 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:11:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:04 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:04 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:04 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:11:07 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:12 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:13 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:13 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:11:13 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:11:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:11:17 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:19 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:11:20 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:28 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:35 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:11:38 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 467, count -46, length 1114
+Sep 14, 2020 2:11:39 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 468, count -46, length 1115
+2020.09.14 14:11:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:47 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:11:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:12:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:16 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:12:17 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:12:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:12:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:23 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:12:25 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:25 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:25 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:25 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:12:26 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:12:27 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 2:12:28 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 14:12:29 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 2:12:45 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 543, count -42, length 1153
+Sep 14, 2020 2:12:45 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 544, count -42, length 1154
+2020.09.14 14:12:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:12:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:13:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:13:12 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:13:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 14:13:17 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:24:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:27:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:27:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:27:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:27:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:27:29 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:27:31 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:36 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:27:36 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:27:37 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:27:37 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:27:38 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:40 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:55 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:57 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:27:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:28:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:28:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:29:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:29:16 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:29:18 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:30:29 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:30:33 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:30:45 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:30:57 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:30:58 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:30:58 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:30:58 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:31:00 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:31:01 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:31:02 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:06 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:31:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:31:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:31:11 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:31:12 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:31:13 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:31:13 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:31:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:17 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:21 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:31:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:31:28 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 427, count -44, length 1230
+Sep 14, 2020 4:31:29 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 428, count -44, length 1231
+2020.09.14 16:31:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:33:26 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 16:33:29 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:33:38 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 16:33:39 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 16:33:53 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:34:19 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 16:34:21 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 16:34:21 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:34:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:35:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:36:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:00 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:05 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:07 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:08 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:09 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:09 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:13 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:20 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:28 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:32 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:32 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:32 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:32 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:33 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:35 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:38 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:39 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:40 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:40 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:37:42 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:37:42 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:37:45 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:48 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:37:53 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:43:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:43:03 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:43:03 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:43:04 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:43:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:43:06 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:43:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:43:09 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:43:10 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+Sep 14, 2020 4:43:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Sep 14, 2020 4:43:11 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:478)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+2020.09.14 16:43:13 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:43:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:43:24 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:43:26 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:43:28 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.14 16:44:03 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 16:44:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 16:44:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 16:44:45 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 16:44:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.14 16:45:08 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 16:45:47 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 16:45:52 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.14 16:46:01 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 16:46:29 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 16:46:42 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 16:46:54 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 16:47:00 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 18:40:29 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.14 18:40:38 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 14, 2020 6:40:38 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 14, 2020 6:40:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <pc_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <func3_in: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_in: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ctrl_MemWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_in: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <pc_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_out: error>: <error> = <Output: error>(<UInt: error>(7.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_out: error>: <error> = <Output: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class ID_EX
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class ID_EX extends Module {
+     6     val io = IO(new Bundle {
+     7         val pc_in = Input(SInt(32.W))
+     8         val pc4_in = Input(SInt(32.W))
+     9         val rs1_sel_in = Input(UInt(5.W))
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <pc_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <func3_in: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_in: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ctrl_MemWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_in: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <pc_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_out: error>: <error> = <Output: error>(<UInt: error>(7.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_out: error>: <error> = <Output: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class ID_EX
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class ID_EX extends Module {
+     6     val io = IO(new Bundle {
+     7         val pc_in = Input(SInt(32.W))
+     8         val pc4_in = Input(SInt(32.W))
+     9         val rs1_sel_in = Input(UInt(5.W))
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:111)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.09.14 18:40:42 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 14, 2020 6:40:42 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 14, 2020 6:40:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <pc_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <func3_in: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_in: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ctrl_MemWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_in: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <pc_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_out: error>: <error> = <Output: error>(<UInt: error>(7.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_out: error>: <error> = <Output: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class ID_EX
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class ID_EX extends Module {
+     6     val io = IO(new Bundle {
+     7         val pc_in = Input(SInt(32.W))
+     8         val pc4_in = Input(SInt(32.W))
+     9         val rs1_sel_in = Input(UInt(5.W))
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+<Bundle: error> {
+  def <init>(): <$anon: <error>> = {
+    super.<init>();
+    ()
+  };
+  private[this] val <pc_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_in: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm: error>: <error> = <Input: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rd_sel_in: error>: <error> = <Input: error>(<UInt: error>(5.<W: error>));
+  private[this] val <func3_in: error>: <error> = <Input: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_in: error>: <error> = <Input: error>(<UInt: error>(7.<W: error>));
+  private[this] val <ctrl_MemWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_in: error>: <error> = <Input: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_in: error>: <error> = <Input: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_in: error>: <error> = <Input: error>(<UInt: error>(2.<W: error>));
+  private[this] val <pc_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <pc4_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs1_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <rs2_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <imm_out: error>: <error> = <Output: error>(<SInt: error>(32.<W: error>));
+  private[this] val <func3_out: error>: <error> = <Output: error>(<UInt: error>(3.<W: error>));
+  private[this] val <func7_out: error>: <error> = <Output: error>(<UInt: error>(7.<W: error>));
+  private[this] val <rd_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs1_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <rs2_sel_out: error>: <error> = <Output: error>(<UInt: error>(5.<W: error>));
+  private[this] val <ctrl_MemWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_Branch_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_RegWr_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_MemToReg_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_AluOp_out: error>: <error> = <Output: error>(<UInt: error>(4.<W: error>));
+  private[this] val <ctrl_OpA_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>));
+  private[this] val <ctrl_OpB_sel_out: error>: <error> = <Output: error>(<UInt: error>(1.<W: error>));
+  private[this] val <ctrl_nextPc_sel_out: error>: <error> = <Output: error>(<UInt: error>(2.<W: error>))
+}
+     while compiling: file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.12
+    compiler version: version 2.12.12
+  reconstructed args: -classpath /home/sajjad/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12.jar -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Template(value <local $anon>)
+       tree position: line 6 of file:///home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+              symbol: value <local $anon>
+   symbol definition: val <local $anon>: <notype> (a TermSymbol)
+      symbol package: core
+       symbol owners: value <local $anon> -> <$anon: <error>> -> value io -> class ID_EX
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     3 import chisel3._
+     4 
+     5 class ID_EX extends Module {
+     6     val io = IO(new Bundle {
+     7         val pc_in = Input(SInt(32.W))
+     8         val pc4_in = Input(SInt(32.W))
+     9         val rs1_sel_in = Input(UInt(5.W))
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:28)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5671)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5688)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5724)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5808)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:111)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.09.14 18:40:44 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 18:40:44 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 18:46:03 INFO  shutting down Metals
+2020.09.15 01:21:06 INFO  started: Metals version 0.9.3 in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core' for client vscode.
+2020.09.15 01:21:09 INFO  time: initialize in 2.42s
+2020.09.15 01:21:09 WARN  no build tool detected in workspace '/home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.15 01:21:09 INFO  no build target: using presentation compiler with only scala-library
+2020.09.15 01:21:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+Sep 15, 2020 1:21:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Sep 15, 2020 1:21:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.09.15 01:21:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.15 01:21:20 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.15 01:21:25 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.15 01:21:27 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.15 01:21:31 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/ID_EX.scala
+2020.09.15 01:21:43 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Decode.scala
+2020.09.15 01:21:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.15 01:22:04 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.15 01:22:23 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/Execute.scala
+2020.09.15 01:22:34 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.15 01:22:41 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.15 01:22:46 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+Sep 15, 2020 1:22:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+2020.09.15 01:22:50 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.15 01:22:59 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.15 01:23:05 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/EX_MEM.scala
+2020.09.15 01:23:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 01:23:19 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 01:23:26 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 01:23:30 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 01:24:14 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 01:24:22 WARN  no build target for: /home/sajjad/Desktop/Buraq-mini/RV32i/src/main/scala/core/MemoryStage.scala
+2020.09.15 04:28:21 INFO  shutting down Metals
