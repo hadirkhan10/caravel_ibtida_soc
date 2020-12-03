@@ -6,12 +6,13 @@
 <img src="/doc/IbtidaSoC.png" > 
 </p>
 
-## Contributors
 
+## Contributors
 Main contributors are:
 1. Engr. Muhammad Hadir Khan (RTL design based on CHISEL)(Owner).
 2. Sajjad Ahmed              (RTL design based on CHISEL).
 3. Engr. Aireen Aamir Jalal  (APR flow with OpenLANE RTL-GDSII).
+
 
 Other contributors:
 1. Dr. Ali Ahmed (Supervisor).
