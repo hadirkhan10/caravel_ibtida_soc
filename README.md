@@ -6,7 +6,18 @@
 <img src="/doc/ibtida-soc.png" > 
 </p>
 
+## Design hierarchy
 
+Chisel source code is available here
+```
+chisel/
+├── Buraq-Mini
+│   │–– RV32i
+│   │   │–– src
+│   │   │   │–– main
+│   │   │   │   │–– scala
+|   |   |   |   |   └── core
+```
 ## Contributors
 Main contributors are:
 1. Engr. Muhammad Hadir Khan (RTL design based on CHISEL)(Owner).
