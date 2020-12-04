@@ -3,7 +3,7 @@
 ابتدا means the start of something. This is a minimal SoC built around a RISC-V based 5 stage pipelined core Buraq-Mini. Both the SoC and the core are made from scratch using CHISEL HDL. The CHISEL source code as well as the emitted verilog are provided in the relvant folders. It is still Work In Progress (WIP). The current SoC architecture is given below.
 
 <p align=”center”>
-<img src="/doc/IbtidaSoC.png" > 
+<img src="/doc/ibtida-soc.png" > 
 </p>
 
 
