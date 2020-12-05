@@ -11,12 +11,13 @@
 Chisel source code is available here
 ```
 chisel/
-├── Buraq-Mini
+├── Buraq-Mini (core source)
 │   │–– RV32i
-│   │   │–– src
-│   │   │   │–– main
-│   │   │   │   │–– scala
-|   |   |   |   |   └── core
+│       └── src
+│–– TileLink  (bus source)
+│   └── src
+└── src (SoC source)
+
 ```
 ## Contributors
 Main contributors are:
