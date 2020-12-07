@@ -7,6 +7,7 @@ An Soc designed to be included inside the Caravel, a template SoC for Google SKY
 <img src="/doc/ibtida-soc.png" > 
 </p>
 
+<<<<<<< HEAD
 ## Design hierarchy
 
 Chisel source code is available here:
@@ -25,6 +26,7 @@ verilog/
 ├── rtl
 │   ├──ibtida-soc
 │   │  └── Ibtida_top_dffram_cv.v
+
 ```
 The synthesized netlist is present here:
 ```
@@ -52,8 +54,6 @@ Main contributors are:
 3. Engr. Aireen Amir Jalal  (APR flow with OpenLANE RTL-GDSII).
 
 Other contributors:
-
 4. Dr. Roomi Naqvi (Supervisor).
 5. Dr. Ali Ahmed (Supervisor).
 6. Usman Zain
-
