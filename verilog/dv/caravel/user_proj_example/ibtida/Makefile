@@ -5,7 +5,7 @@ BEHAVIOURAL_MODELS = ../../
 
 GCC_PATH?=/ef/apps/bin
 GCC_PREFIX?=riscv32-unknown-elf
-PDK_PATH?=/home/merl/Desktop/sky130A
+PDK_PATH?=/home/hadirkhan10/Desktop/sky130A
 
 .SUFFIXES:
 
@@ -16,7 +16,7 @@ all:  ${PATTERN:=.vcd}
 hex:  ${PATTERN:=.hex}
 
 %.vvp: %_tb.v %.hex
-	iverilog -DFUNCTIONAL -I $(BEHAVIOURAL_MODELS) \
+	iverilog -DFUNCTIONAL -DSIM -I $(BEHAVIOURAL_MODELS) \
 	-I $(PDK_PATH) -I $(IP_PATH) -I $(RTL_PATH) \
 	-o $@ $<
 

@@ -8581,7 +8581,7 @@ module Ibtida_top(
   assign dccm_tl_device_io_tl_i_a_address = tl_switch_1to2_io_tl_d_o_0_a_address; // @[Ibtida_top.scala 204:36]
   assign dccm_tl_device_io_tl_i_a_mask = tl_switch_1to2_io_tl_d_o_0_a_mask; // @[Ibtida_top.scala 204:36]
   assign dccm_tl_device_io_tl_i_a_data = tl_switch_1to2_io_tl_d_o_0_a_data; // @[Ibtida_top.scala 204:36]
-  assign dccm_tl_device_io_rdata_i = {{28'd0}, _T_34}; // @[Ibtida_top.scala 260:36]
+  assign dccm_tl_device_io_rdata_i = io_dccm_rdata_i; // @[Ibtida_top.scala 260:36]
   // assign tl_switch_1to2_clock = clock;
   // assign tl_switch_1to2reset = reset;
   assign tl_switch_1to2_io_tl_h_i_a_valid = core_loadStore_tl_host_io_tl_o_a_valid; // @[Ibtida_top.scala 195:36]
@@ -8770,6 +8770,7 @@ module Ibtida_top_dffram_cv(
   assign io_gpio_i = io_in[37:8];
   assign io_out[37:8] = io_gpio_o;
   assign io_oeb[37:8] = io_gpio_en_o;
+  assign la_data_out = {{(128-30){1'b0}}, io_gpio_o};
 
   //wire  ibtidaTop_clock; // @[Ibtida_top_dffram_cv.scala 15:25]
   // wire  ibtidaTopreset; // @[Ibtida_top_dffram_cv.scala 15:25]

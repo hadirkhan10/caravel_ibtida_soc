@@ -8,6 +8,10 @@ set ::env(FP_PDN_CORE_RING) 1
 set ::env(FP_SIZING) absolute
 set ::env(DIE_AREA) "0 0 2920 3520"
 
+set ::env(GLB_RT_ALLOW_CONGESTION) 1
+set ::env(GLB_RT_MINLAYER) 2
+set ::env(GLB_RT_MAXLAYER) 6
+
 set ::unit 2.4
 set ::env(FP_IO_VEXTEND) [expr 2*$::unit]
 set ::env(FP_IO_HEXTEND) [expr 2*$::unit]
@@ -37,10 +41,10 @@ set ::env(VERILOG_FILES) "\
 
 set ::env(VERILOG_FILES_BLACKBOX) "\
 	$script_dir/../../verilog/rtl/defines.v \
-	$script_dir/../../verilog/rtl/user_proj_example.v"
+	$script_dir/../../verilog/rtl/ibtida-soc/Ibtida_top_dffram_cv.v"
 
 set ::env(EXTRA_LEFS) "\
-	$script_dir/../../lef/user_proj_example.lef"
+	$script_dir/../../lef/Ibtida_top_dffram_cv.lef"
 
 set ::env(EXTRA_GDS_FILES) "\
-	$script_dir/../../gds/user_proj_example.gds"
+	$script_dir/../../gds/Ibtida_top_dffram_cv.gds"

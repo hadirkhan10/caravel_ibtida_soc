@@ -1,4 +1,5 @@
 package require openlane
+
 set script_dir [file dirname [file normalize [info script]]]
 
 prep -design $script_dir -tag user_project_wrapper -overwrite
@@ -14,7 +15,7 @@ set ::env(FP_DEF_TEMPATE) $script_dir/../../def/user_project_wrapper_empty.def
 
 apply_def_template
 
-add_macro_placement mprj 1150 1700 N
+add_macro_placement mprj 410 610 N
 
 manual_macro_placement f
 
