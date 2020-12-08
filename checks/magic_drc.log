@@ -1,0 +1,39 @@
+
+Magic 8.3 revision 87 - Compiled on Mon Dec  7 11:10:43 UTC 2020.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130: scaleFactor=2, multiplier=2
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading "/usr/local/bin/drc_checks/magic_drc_check.tcl" from command line.
+caravel: 10000 rects
+caravel: 20000 rects
+caravel: 30000 rects
+caravel: 40000 rects
+caravel: 50000 rects
+caravel: 60000 rects
+caravel: 70000 rects
+caravel: 80000 rects
+[INFO]: Loading caravel
+
+chip_io: 10000 rects
+user_project_wrapper: 10000 rects
+user_project_wrapper: 20000 rects
+user_project_wrapper: 30000 rects
+user_project_wrapper: 40000 rects
+user_project_wrapper: 50000 rects
+user_project_wrapper: 60000 rects
+Cell Ibtida_top_dffram_cv couldn't be read
+Cell Ibtida_top_dffram_cv is unavailable.  It could not be expanded.
+Processing timestamp mismatches: user_project_wrapper, chip_io, mgmt_protect, user_id_programming, storage, mgmt_core, sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped, simple_por, gpio_control_block.
+DRC style is now "drc(full)"
+Loading DRC CIF style.
+[INFO]: COUNT: 2077
+[INFO]: Should be divided by 3 or 4
+[INFO]: DRC Checking DONE (/home/hadirkhan10/Desktop/ibtida-soc/checks/caravel.magic.drc)
+[INFO]: Saving mag view with DRC errors(/home/hadirkhan10/Desktop/ibtida-soc/checks/caravel.magic.drc.mag)
+[INFO]: Saved

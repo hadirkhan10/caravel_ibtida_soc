@@ -7,7 +7,7 @@ set ::env(VERILOG_FILES) [glob $::env(DESIGN_DIR)/src/Ibtida_top_dffram_cv.v glo
 #set ::env(EXTRA_LEFS) [glob $::env(DESIGN_DIR)/src/lef/DFFRAM.lef]
 #set ::env(EXTRA_GDS_FILES) [glob $::env(DESIGN_DIR)/src/gds/DFFRAM.gds]
 set ::env(FP_SIZING) absolute
-set ::env(DIE_AREA) "0 0 2100 2300"
+set ::env(DIE_AREA) "0 0 2100 2500"
 set ::env(PL_TARGET_DENSITY) 0.4
 set ::env(DESIGN_IS_CORE) 0
 set ::env(FP_PDN_CORE_RING) 0

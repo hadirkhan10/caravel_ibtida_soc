@@ -30,15 +30,17 @@ proc run_non_interactive_mode {args} {
 	prep {*}$args
 
 	run_synthesis
-        init_floorplan
-        place_io
-        global_placement_or
-        detailed_placement
-        tap_decap_or
-        detailed_placement
-     	gen_pdn
-        run_cts
-     	run_routing
+	init_floorplan
+	place_io
+	run_sta
+	global_placement_or
+	tap_decap_or
+	detailed_placement
+	run_cts
+	run_sta
+	gen_pdn
+	run_routing
+
 
 	if { $::env(DIODE_INSERTION_STRATEGY) == 2 } {
 		run_antenna_check

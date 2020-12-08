@@ -14,9 +14,9 @@ For all the Host (Master) messages listed below (Get, PutPartialData, PutFullDat
 
   | a_size | Interpretation (2^a_size) bytes |
 |-------|--------|
-| 0 | Slave returns (2^0 = 1 byte) in AccessAckData | 
-| 1 | Slave returns (2^1 = 2 bytes) in AccessAckData |
-| 2 | Slave returns (2^2 = 4 bytes) in AccessAckData |
+| 0 | Device returns (2^0 = 1 byte) in AccessAckData | 
+| 1 | Device returns (2^1 = 2 bytes) in AccessAckData |
+| 2 | Device returns (2^2 = 4 bytes) in AccessAckData |
 
 #### PutFullData
 `a_size` indicates the total amount of data the requesting agent wishes to write in terms of _log2(bytes)_. Although, the specification allows `a_size` to represent any value but `PutFullData` should always set `a_size = 2` for a 32-bit wide data bus or `a_size = 3` for a 64-bit wide data bus.
@@ -40,10 +40,10 @@ For all the Host (Master) messages listed below (Get, PutPartialData, PutFullDat
 | 2 | Host intends to write (2^2 = 4 bytes) of data on the data bus
 
 ### d_size functionality
-For all the Device (Slave) messages listed below (AccessAck, AccessAckData) the `d_size` in terms of log2(bytes) cannot be greater than the physical data bus width in TL-UL and must always be in correspondence with `a_size`.
+For all the Device messages listed below (AccessAck, AccessAckData) the `d_size` in terms of log2(bytes) cannot be greater than the physical data bus width in TL-UL and must always be in correspondence with `a_size`.
 
 #### AccessAck
-`d_size` indicates the size of the data written by the slave device. This should always correspond to the `a_size` that was received when the Host initiated the request.
+`d_size` indicates the size of the data written by the device. This should always correspond to the `a_size` that was received when the Host initiated the request.
 
 
 #### Possbilities of d_size in AccessAck
