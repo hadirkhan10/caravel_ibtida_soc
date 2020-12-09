@@ -31,7 +31,7 @@ proc run_non_interactive_mode {args} {
 
 	run_synthesis
 	init_floorplan
-	place_io
+	place_io_ol
 	run_sta
 	global_placement_or
 	tap_decap_or
