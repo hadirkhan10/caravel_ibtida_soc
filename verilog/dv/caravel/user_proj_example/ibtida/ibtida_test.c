@@ -10,7 +10,6 @@ void main()
   reg_mprj_io_5 = GPIO_MODE_USER_STD_INPUT_NOPULL;
   // reg_mprj_io_6 = GPIO_MODE_USER_STD_OUTPUT;
   // reg_mprj_io_7 = GPIO_MODE_USER_STD_OUTPUT;
-  reg_mprj_io_36 = GPIO_MODE_USER_STD_OUTPUT;
   reg_mprj_io_37 = GPIO_MODE_MGMT_STD_OUTPUT;
 
   reg_mprj_xfer = 1;
@@ -24,11 +23,6 @@ void main()
   reg_la0_data = 0x00000000;
   reg_mprj_datah = 0x20;
   reg_mprj_datah = 0x0;
-  reg_mprj_io_37 = GPIO_MODE_USER_STD_OUTPUT;
-
-  reg_mprj_xfer = 1;
-  while(reg_mprj_xfer == 1);
-
   
 
 }
