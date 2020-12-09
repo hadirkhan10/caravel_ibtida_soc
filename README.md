@@ -48,15 +48,23 @@ gds/
 ```
 
 ## Todo
-- [x] Change the repo name to integrate "caravel_".
-- [x] Update the project with the caravel mpw-one-a branch.
-- [x] Update the openlane with the mpw-one-a branch.
-- [ ] Verify the synthesized netlist.
-- [ ] Harden the design macro with 0 drc/lvs violations.
-- [x] Harden the user project wrapper with 0 drc/lvs violations.
-- [x] On-board the user project to Caravel.
-- [ ] Pass all the pre-checks.
-- [ ] Update the request to "Submitter Confirmed".
+:heavy_check_mark: Change the repo name to integrate "caravel_".
+
+:heavy_check_mark: Update the project with the caravel mpw-one-a branch.
+
+:heavy_check_mark: Update the openlane with the mpw-one-a branch.
+
+:x: Verify the synthesized netlist.
+
+:x: Harden the design macro with 0 drc/lvs violations.
+
+:heavy_check_mark: Harden the user project wrapper with 0 drc/lvs violations.
+
+:heavy_check_mark: On-board the user project to Caravel.
+
+:x: Pass all the pre-checks.
+
+:x: Update the request to "Submitter Confirmed".
 
 ## Contributors
 Main contributors are:
