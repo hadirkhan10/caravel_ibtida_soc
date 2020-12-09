@@ -7,7 +7,6 @@ An Soc designed to be included inside the Caravel, a template SoC for Google SKY
 <img src="/doc/ibtida-soc.png" > 
 </p>
 
-<<<<<<< HEAD
 ## Design hierarchy
 
 Chisel source code is available here:
@@ -47,6 +46,26 @@ lef/
 gds/
 └── Ibtida_top_dffram_cv.gds.gz
 ```
+
+## Todo
+:heavy_check_mark: Change the repo name to integrate "caravel_".
+
+:heavy_check_mark: Update the project with the caravel mpw-one-a branch.
+
+:heavy_check_mark: Update the openlane with the mpw-one-a branch.
+
+:x: Verify the synthesized netlist.
+
+:x: Harden the design macro with 0 drc/lvs violations.
+
+:heavy_check_mark: Harden the user project wrapper with 0 drc/lvs violations.
+
+:heavy_check_mark: On-board the user project to Caravel.
+
+:x: Pass all the pre-checks.
+
+:x: Update the request to "Submitter Confirmed".
+
 ## Contributors
 Main contributors are:
 1. Engr. Muhammad Hadir Khan (RTL design based on CHISEL) (__Owner__).
@@ -54,6 +73,7 @@ Main contributors are:
 3. Engr. Aireen Amir Jalal  (APR flow with OpenLANE RTL-GDSII).
 
 Other contributors:
+
 4. Dr. Roomi Naqvi (Supervisor).
 5. Dr. Ali Ahmed (Supervisor).
 6. Usman Zain
