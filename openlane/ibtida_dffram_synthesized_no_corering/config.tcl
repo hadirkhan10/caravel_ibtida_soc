@@ -2,7 +2,7 @@
 set ::env(DESIGN_NAME) Ibtida_top_dffram_cv 
 
 # Change if needed
-set ::env(VERILOG_FILES) [glob $::env(DESIGN_DIR)/src/Ibtida_top_dffram_cv.v glob $::env(DESIGN_DIR)/src/DFFRAM*.v ]
+set ::env(VERILOG_FILES) [glob $::env(DESIGN_DIR)/../../verilog/rtl/defines.v  $::env(DESIGN_DIR)/../../verilog/rtl/ibtida-soc/Ibtida_top_dffram_cv.v $::env(DESIGN_DIR)/src/DFFRAM*.v ]
 #set ::env(VERILOG_FILES_BLACKBOX) [glob $::env(DESIGN_DIR)/src/DFFRAM.v]
 #set ::env(EXTRA_LEFS) [glob $::env(DESIGN_DIR)/src/lef/DFFRAM.lef]
 #set ::env(EXTRA_GDS_FILES) [glob $::env(DESIGN_DIR)/src/gds/DFFRAM.gds]
