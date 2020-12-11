@@ -3,7 +3,7 @@
 void main()
 {
   // reg_mprj_io_0 = GPIO_MODE_USER_STD_OUTPUT;
-  // reg_mprj_io_1 = GPIO_MODE_USER_STD_OUTPUT;
+   reg_mprj_io_8 = GPIO_MODE_USER_STD_OUTPUT;
   // reg_mprj_io_2 = GPIO_MODE_USER_STD_OUTPUT;
   // reg_mprj_io_3 = GPIO_MODE_USER_STD_OUTPUT;
   // reg_mprj_io_4 = GPIO_MODE_USER_STD_OUTPUT;
