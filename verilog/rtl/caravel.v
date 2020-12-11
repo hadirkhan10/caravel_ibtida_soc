@@ -62,8 +62,8 @@
 /*------------------------------*/
 /* Include user project here	*/
 /*------------------------------*/
-`include "ibtida-soc/Ibtida_top_dffram_cv.v"
-//`include "../gl/Ibtida_top_dffram_cv.v"
+//`include "ibtida-soc/Ibtida_top_dffram_cv.v"
+`include "../gl/Ibtida_top_dffram_cv.v"
 
 // `ifdef USE_OPENRAM
 //     `include "sram_1rw1r_32_256_8_sky130.v"
