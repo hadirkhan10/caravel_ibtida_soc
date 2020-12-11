@@ -5,7 +5,7 @@ BEHAVIOURAL_MODELS = ../../
 
 GCC_PATH?=/ef/apps/bin
 GCC_PREFIX?=riscv32-unknown-elf
-PDK_PATH?=/home/hadirkhan10/Desktop/sky130A
+PDK_PATH?=/home/caravelNov30TO/apr/sky130A
 
 .SUFFIXES:
 
