@@ -8695,64 +8695,23 @@ end // initial
 endmodule
 
 module Ibtida_top_dffram_cv(
-  vdda1,
-	vdda2,
-	vssa1,
-	vssa2,
-	vccd1,
-	vccd2,
-	vssd1,
-	vssd2,
-	wb_clk_i,
-	wb_rst_i,
-	wbs_stb_i,
-	wbs_cyc_i,
-	wbs_we_i,
-	wbs_sel_i,
-	wbs_dat_i,
-	wbs_adr_i,
-	wbs_ack_o,
-	wbs_dat_o,
-	la_data_in,
-	la_data_out,
-	la_oen,
-	io_in,
-	io_out,
-	io_oeb
+`ifdef USE_POWER_PINS
+     inout VPWR, // User area 1 1.8V supply
+     inout VGND, // User area 1 digital ground
+`endif  
 
-  // input         clock,
-  // input         reset,
-  // input         io_rx_i,
-  // input  [15:0] io_CLK_PER_BIT,
-  // input  [29:0] io_gpio_i,
-  // output [29:0] io_gpio_o,
-  // output [29:0] io_gpio_en_o
+// Wishbone Slave ports  
+    input wb_clk_i,
+    input wb_rst_i,
+// Logic Analyzer Signals			    
+    input  [127:0] la_data_in,
+    output [127:0] la_data_out,
+    input  [127:0] la_oen,
+// IOs
+    input  [`MPRJ_IO_PADS-1:0] io_in,
+    output [`MPRJ_IO_PADS-1:0] io_out,
+    output [`MPRJ_IO_PADS-1:0] io_oeb			    
 );
-
-  inout vdda1;
-	inout vdda2;
-	inout vssa1;
-	inout vssa2;
-	inout vccd1;
-	inout vccd2;
-	inout vssd1;
-	inout vssd2;
-	input wb_clk_i;
-	input wb_rst_i;
-	input wbs_stb_i;
-	input wbs_cyc_i;
-	input wbs_we_i;
-	input [3:0] wbs_sel_i;
-	input [31:0] wbs_dat_i;
-	input [31:0] wbs_adr_i;
-	output wire wbs_ack_o;
-	output wire [31:0] wbs_dat_o;
-	input [127:0] la_data_in;
-	output wire [127:0] la_data_out;
-	input [127:0] la_oen;
-	input [37:0] io_in;
-	output wire [37:0] io_out;
-	output wire [37:0] io_oeb;
 
   wire [29:0] io_gpio_i;
   wire [15:0] io_CLK_PER_BIT;
@@ -8860,8 +8819,8 @@ module Ibtida_top_dffram_cv(
 
   DFFRAM #(1) DCCM(
     `ifdef USE_POWER_PINS
-        .VPWR(vccd1),
-        .VGND(vssa1),
+        .VPWR(VPWR),
+        .VGND(VGND),
     `endif
     .CLK(clock),
     .WE(WE_DCCM),
@@ -8883,8 +8842,8 @@ module Ibtida_top_dffram_cv(
 
   DFFRAM #(1) ICCM(
     `ifdef USE_POWER_PINS
-        .VPWR(vccd1),
-        .VGND(vssa1),
+        .VPWR(VPWR),
+        .VGND(VGND),
     `endif
     .CLK(clock),
     .WE(WE_ICCM),
