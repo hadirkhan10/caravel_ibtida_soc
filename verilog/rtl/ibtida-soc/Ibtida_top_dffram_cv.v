@@ -8725,7 +8725,7 @@ module Ibtida_top_dffram_cv(
   assign clock = wb_clk_i;
   assign reset = (~la_oen[0]) ? (la_data_in[0]) : wb_rst_i;
   assign io_CLK_PER_BIT = la_data_in[47:32];
-  assign io_rx_i = io_in[5];
+  assign io_rx_i = (~la_oen[64]) ? (la_data_in[64]) : io_in[5];
   assign io_gpio_i = io_in[37:8];
   assign io_out[37:8] = io_gpio_o;
   assign io_oeb[37:8] = io_gpio_en_o;
