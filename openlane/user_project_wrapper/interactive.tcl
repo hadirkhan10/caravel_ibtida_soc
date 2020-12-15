@@ -19,11 +19,12 @@ add_macro_placement mprj 410 510 N
 
 manual_macro_placement f
 
-set ::env(_SPACING) 1.6
+set ::env(_SPACING) 1.8
 set ::env(_WIDTH) 3
 
-set power_domains [list {vccd1 vssd1} {vccd2 vssd2} {vdda1 vssa1} {vdda2 vssa2}]
+set power_domains [list {vccd1 vssd1} {vccd2 vssd2} ]
 
+#set power_domains [list {vccd1 vssd1} {vccd2 vssd2} {vdda1 vssa1} {vdda2 vssa2}]
 set ::env(_VDD_NET_NAME) vccd1
 set ::env(_GND_NET_NAME) vssd1
 set ::env(_V_OFFSET) 14
@@ -64,3 +65,4 @@ run_magic_drc
 run_lvs; # requires run_magic_spice_export
 
 run_antenna_check
+

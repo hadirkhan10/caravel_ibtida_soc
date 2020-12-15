@@ -9,7 +9,7 @@ set ::env(FP_SIZING) absolute
 set ::env(DIE_AREA) "0 0 2920 3520"
 
 set ::env(GLB_RT_ALLOW_CONGESTION) 1
-set ::env(GLB_RT_MINLAYER) 1
+set ::env(GLB_RT_MINLAYER) 2
 set ::env(GLB_RT_MAXLAYER) 6
 set ::env(GLB_RT_ADJUSTMENT) 0.45
 set ::unit 2.4
