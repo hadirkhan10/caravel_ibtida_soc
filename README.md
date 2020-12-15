@@ -54,11 +54,11 @@ gds/
 
 :heavy_check_mark: Update the openlane with the mpw-one-a branch.
 
-:x: Verify the synthesized netlist.
+:heavy_check_mark: Verify the synthesized netlist.
 
-:x: Harden the design macro with 0 drc/lvs violations.
+:heavy_check_mark: Harden the design macro with 0 drc/lvs violations.
 
-:heavy_check_mark: Harden the user project wrapper with 0 drc/lvs violations.
+:x: Harden the user project wrapper with 0 drc/lvs violations.
 
 :heavy_check_mark: On-board the user project to Caravel.
 
