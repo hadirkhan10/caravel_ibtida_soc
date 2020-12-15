@@ -13,9 +13,9 @@ module DFFRAM(
     output reg [31:0] Do,
     input [7:0] A
 );
+  
 
-
-reg [31:0] mem [0:63];
+reg [31:0] mem [0:`MEM_WORDS-1];
 
 always @(posedge CLK) begin
     if (EN == 1'b1) begin
@@ -68,16 +68,16 @@ module DFFRAM #( parameter COLS=1)
                                     .VPWR(VPWR),
                                     .VGND(VGND),
                                 `endif
-                                    .CLK(CLK),
-                                    .WE(WE),
-                                    .EN(EN_lines[i]),
-                                    .Di(Di),
-                                    .Do(DOUT[i]),
-                                    .A(A[7:0])
-                                );
+                                    .CLK(CLK), 
+                                    .WE(WE), 
+                                    .EN(EN_lines[i]), 
+                                    .Di(Di), 
+                                    .Do(DOUT[i]), 
+                                    .A(A[7:0]) 
+                                );    
         end
         if(COLS==4) begin
-            MUX4x1_32 MUX (
+            MUX4x1_32 MUX ( 
             `ifdef USE_POWER_PINS
                 .VPWR(VPWR),
                 .VGND(VGND),
@@ -93,18 +93,18 @@ module DFFRAM #( parameter COLS=1)
             `ifdef USE_POWER_PINS
                 .VPWR(VPWR),
                 .VGND(VGND),
-            `endif
+            `endif 
                 .EN(EN),
                 .A(A[9:8]),
                 .SEL(EN_lines)
             );
         end
         else if(COLS==2) begin
-            MUX2x1_32 MUX (
+            MUX2x1_32 MUX ( 
             `ifdef USE_POWER_PINS
                 .VPWR(VPWR),
                 .VGND(VGND),
-            `endif
+            `endif 
                 .A0(DOUT[0]),
                 .A1(DOUT[1]),
                 .S(A[8]),
@@ -112,23 +112,23 @@ module DFFRAM #( parameter COLS=1)
             );
             //sky130_fd_sc_hd__inv_4 DEC0 ( .Y(EN_lines[0]), .A(A[8]) );
             //sky130_fd_sc_hd__clkbuf_4 DEC1 (.X(EN_lines[1]), .A(A[8]) );
-            DEC1x2 DEC (
+            DEC1x2 DEC ( 
             `ifdef USE_POWER_PINS
                 .VPWR(VPWR),
                 .VGND(VGND),
-            `endif
+            `endif 
                 .EN(EN),
                 .A(A[8]),
-                .SEL(EN_lines[1:0])
+                .SEL(EN_lines[1:0]) 
             );
-
+            
         end
         else begin
-            PASS MUX (
+            PASS MUX ( 
             `ifdef USE_POWER_PINS
                 .VPWR(VPWR),
                 .VGND(VGND),
-            `endif
+            `endif 
                 .A(DOUT[0]),
                 .X(Do_pre)
             );
@@ -138,20 +138,20 @@ module DFFRAM #( parameter COLS=1)
                 .VGND(VGND),
                 .VPB(VPWR),
                 .VNB(VGND),
-            `endif
+            `endif 
                 .X(EN_lines[0]),
                 .A(EN)
             );
         end
     endgenerate
-
+    
     sky130_fd_sc_hd__clkbuf_4 DOBUF[31:0] (
     `ifdef USE_POWER_PINS
         .VPWR(VPWR),
         .VGND(VGND),
         .VPB(VPWR),
         .VNB(VGND),
-    `endif
+    `endif 
         .X(Do),
         .A(Do_pre)
     );
