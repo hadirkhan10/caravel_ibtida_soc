@@ -1,7 +1,0 @@
-FULL RUN LOG:
- Uncompressing the gds files
-Step 0 done without fatal errors.
- Executing Step 1 of 4: Checking License files.
-{{LICENSE COMPLIANCE PASSED}} Apache-2.0 LICENSE file was found in project root
- No third party libraries found.
-Step 1 done without fatal errors.
