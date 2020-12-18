@@ -2,10 +2,9 @@ FIRMWARE_PATH = ../..
 RTL_PATH = ../../../../rtl
 IP_PATH = ../../../../ip
 BEHAVIOURAL_MODELS = ../../
-
 GCC_PATH?=/ef/apps/bin
 GCC_PREFIX?=riscv32-unknown-elf
-PDK_PATH?=/home/caravelNov30TO/apr/sky130A
+PDK_PATH?=/home/caravelDec18/apr/sky130A
 
 .SUFFIXES:
 
