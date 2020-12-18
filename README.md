@@ -58,13 +58,13 @@ gds/
 
 :heavy_check_mark: Harden the design macro with 0 drc/lvs violations.
 
-:x: Harden the user project wrapper with 0 drc/lvs violations.
+:heavy_check_mark: Harden the user project wrapper with 0 drc/lvs violations.
 
 :heavy_check_mark: On-board the user project to Caravel.
 
-:x: Pass all the pre-checks.
+:heavy_check_mark: Pass all the expected pre-checks.
 
-:x: Update the request to "Submitter Confirmed".
+:heavy_check_mark: Update the request to "Submitter Confirmed".
 
 ## Contributors
 Main contributors are:
