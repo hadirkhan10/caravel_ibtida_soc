@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1608298075
+timestamp 1608321899
 << checkpaint >>
 rect -3932 -3932 721532 1041532
 << metal1 >>
@@ -80930,9 +80930,9 @@ timestamp 1607631642
 transform 1 0 0 0 1 0
 box 0 0 717600 1037600
 use user_project_wrapper  mprj
-timestamp 1608298075
+timestamp 1608321899
 transform 1 0 65308 0 1 278716
-box -2936 -1866 586860 705802
+box -8576 -7506 592500 711442
 << properties >>
 string FIXED_BBOX 0 0 717600 1037600
 << end >>

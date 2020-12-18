@@ -1658,9 +1658,9 @@ SPDX NON-COMPLIANT FILES
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/DFFRAM/README.md
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/DFFRAM/config.tcl
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/pdn.tcl
-/home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/pdn.tcl.updated
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/interactive.tcl
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/config.tcl
+/home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/gen_pdn.tcl
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/runs/user_project_wrapper_ADJUSTMENT_0.3/config.tcl
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/runs/user_project_wrapper_ADJUSTMENT_0.3/reports/floorplan/verilog2def.die_area.rpt
 /home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/openlane/user_project_wrapper/runs/user_project_wrapper_ADJUSTMENT_0.3/reports/floorplan/verilog2def.core_area.rpt

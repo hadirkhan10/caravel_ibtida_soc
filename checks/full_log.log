@@ -24,6 +24,7 @@ b'Removing manifest'
 b'Fetching manifest'
 b'Running sha1sum checks'
  Manifest Checks Failed. Please rebase your Repository to the latest Caravel master.
+caravel.v: FAILED
 .magicrc: FAILED
  Documentation Checks Passed.
  Makefile Checks Passed.

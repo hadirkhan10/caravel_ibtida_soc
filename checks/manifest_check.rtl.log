@@ -1,5 +1,5 @@
 caravel_clocking.v: OK
-caravel.v: OK
+caravel.v: FAILED
 chip_io.v: OK
 clock_div.v: OK
 convert_gpio_sigs.v: OK
