@@ -15,15 +15,16 @@ set ::env(FP_DEF_TEMPATE) $script_dir/../../def/user_project_wrapper_empty.def
 
 apply_def_template
 
-add_macro_placement mprj 410 510 N
+add_macro_placement mprj 660 960 N
 
 manual_macro_placement f
 
-set ::env(_SPACING) 1.8
+set ::env(_SPACING) 1.7
 set ::env(_WIDTH) 3
 
-set power_domains [list {vccd1 vssd1} {vccd2 vssd2} ]
+#set power_domains [list {vccd1 vssd1} {vccd2 vssd2} ]
 
+set power_domains [list {vccd1 vssd1}]
 #set power_domains [list {vccd1 vssd1} {vccd2 vssd2} {vdda1 vssa1} {vdda2 vssa2}]
 set ::env(_VDD_NET_NAME) vccd1
 set ::env(_GND_NET_NAME) vssd1
@@ -50,6 +51,9 @@ foreach domain $power_domains {
 global_routing_or
 detailed_routing
 
+write_powered_verilog -power vccd1 -ground vssd1
+set_netlist $::env(lvs_result_file_tag).powered.v
+
 run_magic
 run_magic_spice_export
 
@@ -57,7 +61,8 @@ save_views       -lef_path $::env(magic_result_file_tag).lef \
                  -def_path $::env(tritonRoute_result_file_tag).def \
                  -gds_path $::env(magic_result_file_tag).gds \
                  -mag_path $::env(magic_result_file_tag).mag \
-                 -save_path $save_path \
+                 -verilog_path $::env(CURRENT_NETLIST) \
+		 -save_path $save_path \
                  -tag $::env(RUN_TAG)
 
 run_magic_drc
