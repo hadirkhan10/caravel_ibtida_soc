@@ -26,135 +26,135 @@ Reading "sky130_fd_sc_hd__decap_3".
 Reading "user_id_programming".
     100 uses
 Reading "sky130_fd_sc_hd__diode_2".
-Reading "pk_contact_34".
-Reading "pk_contact_9".
-Reading "pk_contact_8".
-Reading "pk_contact_33".
-Reading "pk_contact_32".
-Reading "pk_contact_7".
-Reading "pk_dff".
-Reading "pk_row_addr_dff".
-Reading "pk_col_addr_dff".
-Reading "pk_wmask_dff".
-Reading "pk_contact_12".
-Reading "pk_contact_24".
-Reading "pk_contact_23".
-Reading "pk_contact_17".
-Reading "pk_nmos_m1_w0_360_sli_dli_da_p".
-Reading "pk_contact_11".
-Reading "pk_pmos_m1_w1_120_sli_dli_da_p".
-Reading "pk_pinv_0".
-Reading "pk_nmos_m1_w0_740_sactive_dli".
-Reading "pk_nmos_m1_w0_740_sli_dactive".
-Reading "pk_pmos_m1_w1_120_sli_dli".
-Reading "pk_pnand2_1".
-Reading "pk_nmos_m22_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m22_w2_000_sli_dli_da_p".
-Reading "pk_pinv_16".
-Reading "pk_pdriver_3".
-Reading "pk_nmos_m1_w0_740_sactive_dactive".
-Reading "pk_pnand3".
-Reading "pk_pand3".
-Reading "pk_nmos_m24_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m24_w2_000_sli_dli_da_p".
-Reading "pk_pinv_15".
-Reading "pk_nmos_m8_w1_680_sli_dli_da_p".
-Reading "pk_pmos_m8_w2_000_sli_dli_da_p".
-Reading "pk_pinv_14".
-Reading "pk_nmos_m3_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m3_w2_000_sli_dli_da_p".
-Reading "pk_pinv_13".
-Reading "pk_nmos_m2_w0_740_sli_dli_da_p".
-Reading "pk_pmos_m2_w1_120_sli_dli_da_p".
-Reading "pk_pinv_12".
-Reading "pk_pinv_7".
-Reading "pk_pinv_6".
-Reading "pk_pdriver_2".
-Reading "pk_nmos_m7_w1_680_sli_dli_da_p".
-Reading "pk_pmos_m7_w2_000_sli_dli_da_p".
-Reading "pk_pinv_3".
-Reading "pk_pdriver_0".
-Reading "pk_pnand2_0".
-Reading "pk_pand2_0".
-Reading "pk_nmos_m12_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m12_w2_000_sli_dli_da_p".
-Reading "pk_pinv_19".
-Reading "pk_nmos_m4_w1_260_sli_dli_da_p".
-Reading "pk_pmos_m4_w2_000_sli_dli_da_p".
-Reading "pk_pinv_18".
-Reading "pk_pdriver_5".
-Reading "pk_nmos_m40_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m40_w2_000_sli_dli_da_p".
-Reading "pk_pinv_11".
-Reading "pk_nmos_m13_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m13_w2_000_sli_dli_da_p".
-Reading "pk_pinv_10".
-Reading "pk_nmos_m5_w1_680_sli_dli_da_p".
-Reading "pk_pmos_m5_w2_000_sli_dli_da_p".
-Reading "pk_pinv_9".
-Reading "pk_nmos_m2_w1_260_sli_dli_da_p".
-Reading "pk_pmos_m2_w1_650_sli_dli_da_p".
-Reading "pk_pinv_8".
-Reading "pk_pdriver_1".
-Reading "pk_nmos_m3_w1_680_sli_dli_da_p".
-Reading "pk_pmos_m3_w1_650_sli_dli_da_p".
-Reading "pk_pinv_2".
-Reading "pk_pinv_1".
-Reading "pk_dff_buf_0".
-Reading "pk_dff_buf_array".
-Reading "pk_pinv_20".
-Reading "pk_delay_chain".
+Reading "contact_34".
+Reading "contact_9".
+Reading "contact_8".
+Reading "contact_33".
+Reading "contact_32".
+Reading "contact_7".
+Reading "dff".
+Reading "row_addr_dff".
+Reading "col_addr_dff".
+Reading "wmask_dff".
+Reading "contact_12".
+Reading "contact_24".
+Reading "contact_23".
+Reading "contact_17".
+Reading "nmos_m1_w0_360_sli_dli_da_p".
+Reading "contact_11".
+Reading "pmos_m1_w1_120_sli_dli_da_p".
+Reading "pinv_0".
+Reading "nmos_m1_w0_740_sactive_dli".
+Reading "nmos_m1_w0_740_sli_dactive".
+Reading "pmos_m1_w1_120_sli_dli".
+Reading "pnand2_1".
+Reading "nmos_m7_w1_680_sli_dli_da_p".
+Reading "pmos_m7_w2_000_sli_dli_da_p".
+Reading "pinv_3".
+Reading "pdriver_0".
+Reading "pnand2_0".
+Reading "pand2_0".
+Reading "nmos_m40_w2_000_sli_dli_da_p".
+Reading "pmos_m40_w2_000_sli_dli_da_p".
+Reading "pinv_11".
+Reading "nmos_m13_w2_000_sli_dli_da_p".
+Reading "pmos_m13_w2_000_sli_dli_da_p".
+Reading "pinv_10".
+Reading "nmos_m5_w1_680_sli_dli_da_p".
+Reading "pmos_m5_w2_000_sli_dli_da_p".
+Reading "pinv_9".
+Reading "nmos_m2_w1_260_sli_dli_da_p".
+Reading "pmos_m2_w1_650_sli_dli_da_p".
+Reading "pinv_8".
+Reading "pinv_7".
+Reading "pinv_6".
+Reading "pdriver_1".
+Reading "nmos_m22_w2_000_sli_dli_da_p".
+Reading "pmos_m22_w2_000_sli_dli_da_p".
+Reading "pinv_16".
+Reading "pdriver_3".
+Reading "nmos_m1_w0_740_sactive_dactive".
+Reading "pnand3".
+Reading "pand3".
+Reading "nmos_m12_w2_000_sli_dli_da_p".
+Reading "pmos_m12_w2_000_sli_dli_da_p".
+Reading "pinv_19".
+Reading "nmos_m4_w1_260_sli_dli_da_p".
+Reading "pmos_m4_w2_000_sli_dli_da_p".
+Reading "pinv_18".
+Reading "nmos_m2_w0_740_sli_dli_da_p".
+Reading "pmos_m2_w1_120_sli_dli_da_p".
+Reading "pinv_12".
+Reading "pdriver_5".
+Reading "nmos_m24_w2_000_sli_dli_da_p".
+Reading "pmos_m24_w2_000_sli_dli_da_p".
+Reading "pinv_15".
+Reading "nmos_m8_w1_680_sli_dli_da_p".
+Reading "pmos_m8_w2_000_sli_dli_da_p".
+Reading "pinv_14".
+Reading "nmos_m3_w2_000_sli_dli_da_p".
+Reading "pmos_m3_w2_000_sli_dli_da_p".
+Reading "pinv_13".
+Reading "pdriver_2".
+Reading "nmos_m3_w1_680_sli_dli_da_p".
+Reading "pmos_m3_w1_650_sli_dli_da_p".
+Reading "pinv_2".
+Reading "pinv_1".
+Reading "dff_buf_0".
+Reading "dff_buf_array".
+Reading "pinv_20".
+Reading "delay_chain".
     100 uses
     200 uses
     300 uses
-Reading "pk_nmos_m18_w2_000_sli_dli_da_p".
-Reading "pk_pmos_m18_w2_000_sli_dli_da_p".
-Reading "pk_pinv_17".
-Reading "pk_pdriver_4".
-Reading "pk_pand3_0".
-Reading "pk_control_logic_rw".
+Reading "nmos_m18_w2_000_sli_dli_da_p".
+Reading "pmos_m18_w2_000_sli_dli_da_p".
+Reading "pinv_17".
+Reading "pdriver_4".
+Reading "pand3_0".
+Reading "control_logic_rw".
     100 uses
-Reading "pk_cr_3".
-Reading "pk_control_logic_r".
-Error while reading cell "pk_control_logic_r" (byte position 870068): Warning:  Cell pk_control_logic_r boundary was redefined.
-Error while reading cell "pk_control_logic_r" (byte position 870068): Warning:  Cell pk_control_logic_r boundary was redefined.
-Error while reading cell "pk_control_logic_r" (byte position 870068): Warning:  Cell pk_control_logic_r boundary was redefined.
-Error while reading cell "pk_control_logic_r" (byte position 870068): Warning:  Cell pk_control_logic_r boundary was redefined.
-Error while reading cell "pk_control_logic_r" (byte position 870068): Warning:  Cell pk_control_logic_r boundary was redefined.
-Reading "pk_cr_2".
+Reading "cr_3".
+Reading "control_logic_r".
+Error while reading cell "control_logic_r" (byte position 868006): Warning:  Cell control_logic_r boundary was redefined.
+Error while reading cell "control_logic_r" (byte position 868006): Warning:  Cell control_logic_r boundary was redefined.
+Error while reading cell "control_logic_r" (byte position 868006): Warning:  Cell control_logic_r boundary was redefined.
+Error while reading cell "control_logic_r" (byte position 868006): Warning:  Cell control_logic_r boundary was redefined.
+Error while reading cell "control_logic_r" (byte position 868006): Warning:  Cell control_logic_r boundary was redefined.
+Reading "cr_2".
     100 uses
     200 uses
     300 uses
     400 uses
-Reading "pk_data_dff".
+Reading "data_dff".
     100 uses
     200 uses
-Reading "pk_contact_28".
-Reading "pk_contact_29".
-Reading "pk_pinvbuf".
-Reading "pk_cr_0".
-Reading "pk_cr_1".
-Reading "pk_contact_18".
-Reading "pk_contact_13".
-Reading "pk_nmos_m10_w7_000_sli_dli_da_p".
-Reading "pk_pmos_m10_w7_000_sli_dli_da_p".
-Reading "pk_pinv_dec_0".
-Reading "pk_nand2_dec".
-Reading "pk_wordline_driver".
-Reading "pk_wordline_driver_array".
+Reading "contact_28".
+Reading "contact_29".
+Reading "pinvbuf".
+Reading "cr_0".
+Reading "cr_1".
+Reading "contact_18".
+Reading "contact_13".
+Reading "nmos_m10_w7_000_sli_dli_da_p".
+Reading "pmos_m10_w7_000_sli_dli_da_p".
+Reading "pinv_dec_0".
+Reading "nand2_dec".
+Reading "wordline_driver".
+Reading "wordline_driver_array".
     100 uses
     200 uses
     300 uses
-Reading "pk_contact_27".
-Reading "pk_contact_26".
-Reading "pk_pinv_dec".
-Reading "pk_nand3_dec".
-Reading "pk_and3_dec".
-Reading "pk_hierarchical_predecode3x8".
+Reading "contact_27".
+Reading "contact_26".
+Reading "pinv_dec".
+Reading "nand3_dec".
+Reading "and3_dec".
+Reading "and2_dec".
+Reading "hierarchical_predecode2x4".
+Reading "hierarchical_predecode3x8".
     100 uses
-Reading "pk_and2_dec".
-Reading "pk_hierarchical_predecode2x4".
-Reading "pk_hierarchical_decoder".
+Reading "hierarchical_decoder".
     100 uses
     200 uses
     300 uses
@@ -193,91 +193,91 @@ Reading "pk_hierarchical_decoder".
     3600 uses
     3700 uses
     3800 uses
-Reading "pk_port_address".
-Reading "pk_contact_22".
-Reading "pk_contact_21".
-Reading "pk_contact_20".
-Reading "pk_contact_19".
-Reading "pk_nmos_m1_w2_880_sli_dli".
-Reading "pk_single_level_column_mux_0".
-Reading "pk_single_level_column_mux_array_0".
+Reading "port_address".
+Reading "contact_22".
+Reading "contact_21".
+Reading "contact_20".
+Reading "contact_19".
+Reading "nmos_m1_w2_880_sli_dli".
+Reading "single_level_column_mux_0".
+Reading "single_level_column_mux_array_0".
     100 uses
     200 uses
     300 uses
     400 uses
     500 uses
-Reading "pk_contact_15".
-Reading "pk_contact_14".
-Reading "pk_sense_amp".
-Reading "pk_sense_amp_array".
+Reading "contact_15".
+Reading "contact_14".
+Reading "sense_amp".
+Reading "sense_amp_array".
     100 uses
     200 uses
     300 uses
-Reading "pk_contact_16".
-Reading "pk_pmos_m1_w0_550_sli_dli".
-Reading "pk_precharge_1".
-Reading "pk_precharge_array_0".
+Reading "contact_16".
+Reading "pmos_m1_w0_550_sli_dli".
+Reading "precharge_1".
+Reading "precharge_array_0".
     100 uses
-Reading "pk_port_data_0".
-Reading "pk_single_level_column_mux".
-Reading "pk_single_level_column_mux_array".
+Reading "port_data_0".
+Reading "single_level_column_mux".
+Reading "single_level_column_mux_array".
     100 uses
     200 uses
     300 uses
     400 uses
     500 uses
-Reading "pk_pinv".
-Reading "pk_pdriver".
-Reading "pk_pnand2".
-Reading "pk_pand2".
-Reading "pk_write_mask_and_array".
-Reading "pk_write_driver".
-Reading "pk_write_driver_array".
+Reading "pinv".
+Reading "pdriver".
+Reading "pnand2".
+Reading "pand2".
+Reading "write_mask_and_array".
+Reading "write_driver".
+Reading "write_driver_array".
     100 uses
     200 uses
     300 uses
-Reading "pk_precharge_0".
-Reading "pk_precharge_array".
+Reading "precharge_0".
+Reading "precharge_array".
     100 uses
-Reading "pk_port_data".
-Reading "pk_row_cap_cell_1rw_1r".
-Error while reading cell "pk_row_cap_cell_1rw_1r" (byte position 2246688): Unknown layer/datatype in boundary, layer=33 type=43
-Error while reading cell "pk_row_cap_cell_1rw_1r" (byte position 2247648): Unknown layer/datatype in boundary, layer=22 type=21
-Reading "pk_row_cap_array_0".
-    100 uses
-    200 uses
-    300 uses
-Reading "pk_row_cap_array".
+Reading "port_data".
+Reading "sky130_fd_bd_sram__openram_dp_cell_cap_row".
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_cap_row" (byte position 2222796): Unknown layer/datatype in boundary, layer=33 type=43
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_cap_row" (byte position 2223756): Unknown layer/datatype in boundary, layer=22 type=21
+Reading "row_cap_array_0".
     100 uses
     200 uses
     300 uses
-Reading "pk_col_cap_cell_1rw_1r".
-Reading "pk_col_cap_array".
+Reading "row_cap_array".
     100 uses
-Reading "pk_dummy_cell_1rw_1r".
-Error while reading cell "pk_dummy_cell_1rw_1r" (byte position 2456210): Unknown layer/datatype in boundary, layer=33 type=43
-Error while reading cell "pk_dummy_cell_1rw_1r" (byte position 2460402): Unknown layer/datatype in boundary, layer=22 type=21
-Error while reading cell "pk_dummy_cell_1rw_1r" (byte position 2460850): Unknown layer/datatype in boundary, layer=22 type=22
-Error while reading cell "pk_dummy_cell_1rw_1r" (byte position 2461106): Unknown layer/datatype in boundary, layer=92 type=44
-Error while reading cell "pk_dummy_cell_1rw_1r" (byte position 2461234): Unknown layer/datatype in boundary, layer=235 type=0
-Reading "pk_dummy_array".
-Reading "pk_replica_cell_1rw_1r".
-Error while reading cell "pk_replica_cell_1rw_1r" (byte position 2538534): Unknown layer/datatype in boundary, layer=33 type=43
-Error while reading cell "pk_replica_cell_1rw_1r" (byte position 2542726): Unknown layer/datatype in boundary, layer=22 type=21
-Error while reading cell "pk_replica_cell_1rw_1r" (byte position 2543686): Unknown layer/datatype in boundary, layer=22 type=22
-Error while reading cell "pk_replica_cell_1rw_1r" (byte position 2543942): Unknown layer/datatype in boundary, layer=92 type=44
-Error while reading cell "pk_replica_cell_1rw_1r" (byte position 2544070): Unknown layer/datatype in boundary, layer=235 type=0
-Reading "pk_replica_column_0".
+    200 uses
+    300 uses
+Reading "sky130_fd_bd_sram__openram_dp_cell_cap_col".
+Reading "col_cap_array".
     100 uses
-Reading "pk_replica_column".
+Reading "sky130_fd_bd_sram__openram_dp_cell_dummy".
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_dummy" (byte position 2438400): Unknown layer/datatype in boundary, layer=33 type=43
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_dummy" (byte position 2442592): Unknown layer/datatype in boundary, layer=22 type=21
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_dummy" (byte position 2443040): Unknown layer/datatype in boundary, layer=22 type=22
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_dummy" (byte position 2443296): Unknown layer/datatype in boundary, layer=235 type=0
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_dummy" (byte position 2444324): Unknown layer/datatype in boundary, layer=33 type=42
+Reading "dummy_array".
+Reading "sky130_fd_bd_sram__openram_dp_cell_replica".
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_replica" (byte position 2524924): Unknown layer/datatype in boundary, layer=33 type=43
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_replica" (byte position 2529116): Unknown layer/datatype in boundary, layer=22 type=21
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_replica" (byte position 2530076): Unknown layer/datatype in boundary, layer=22 type=22
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_replica" (byte position 2530332): Unknown layer/datatype in boundary, layer=235 type=0
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell_replica" (byte position 2531544): Unknown layer/datatype in boundary, layer=33 type=42
+Reading "replica_column_0".
     100 uses
-Reading "pk_cell_1rw_1r".
-Error while reading cell "pk_cell_1rw_1r" (byte position 2723450): Unknown layer/datatype in boundary, layer=33 type=43
-Error while reading cell "pk_cell_1rw_1r" (byte position 2727642): Unknown layer/datatype in boundary, layer=22 type=21
-Error while reading cell "pk_cell_1rw_1r" (byte position 2728602): Unknown layer/datatype in boundary, layer=22 type=22
-Error while reading cell "pk_cell_1rw_1r" (byte position 2728858): Unknown layer/datatype in boundary, layer=92 type=44
-Error while reading cell "pk_cell_1rw_1r" (byte position 2728986): Unknown layer/datatype in boundary, layer=235 type=0
-Reading "pk_bitcell_array".
+Reading "replica_column".
+    100 uses
+Reading "sky130_fd_bd_sram__openram_dp_cell".
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell" (byte position 2718050): Unknown layer/datatype in boundary, layer=33 type=43
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell" (byte position 2722242): Unknown layer/datatype in boundary, layer=22 type=21
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell" (byte position 2723202): Unknown layer/datatype in boundary, layer=22 type=22
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell" (byte position 2723458): Unknown layer/datatype in boundary, layer=235 type=0
+Error while reading cell "sky130_fd_bd_sram__openram_dp_cell" (byte position 2724670): Unknown layer/datatype in boundary, layer=33 type=42
+Reading "bitcell_array".
     100 uses
     200 uses
     300 uses
@@ -359,8 +359,8 @@ Reading "pk_bitcell_array".
     7900 uses
     8000 uses
     8100 uses
-Reading "pk_replica_bitcell_array".
-Reading "pk_bank".
+Reading "replica_bitcell_array".
+Reading "bank".
     100 uses
     200 uses
     300 uses
@@ -1982,72 +1982,68 @@ Reading "sky130_fd_sc_hd__buf_4".
 Reading "sky130_fd_sc_hd__a2111o_4".
 Reading "sky130_fd_sc_hd__o32a_4".
 Reading "sky130_fd_sc_hd__and4_4".
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 15208228): Warning:  Ignoring empty string label at (235, 850)
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 15208328): Warning:  Ignoring empty string label at (1615, 850)
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 15208428): Warning:  Ignoring empty string label at (1615, 1190)
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 15208528): Warning:  Ignoring empty string label at (1155, 850)
-Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 15208628): Warning:  Ignoring empty string label at (1155, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 14733012): Warning:  Ignoring empty string label at (235, 850)
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 14733112): Warning:  Ignoring empty string label at (1615, 850)
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 14733212): Warning:  Ignoring empty string label at (1615, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 14733312): Warning:  Ignoring empty string label at (1155, 850)
+Error while reading cell "sky130_fd_sc_hd__and4_4" (byte position 14733412): Warning:  Ignoring empty string label at (1155, 1190)
 Reading "sky130_fd_sc_hd__a22oi_4".
-Error while reading cell "sky130_fd_sc_hd__a22oi_4" (byte position 15223622): Warning:  Ignoring empty string label at (1155, 1530)
+Error while reading cell "sky130_fd_sc_hd__a22oi_4" (byte position 14748406): Warning:  Ignoring empty string label at (1155, 1530)
 Reading "sky130_fd_sc_hd__or3_4".
 Reading "sky130_fd_sc_hd__clkbuf_1".
 Reading "sky130_fd_sc_hd__a21oi_4".
 Reading "sky130_fd_sc_hd__a211o_4".
 Reading "sky130_fd_sc_hd__nor2_4".
-Error while reading cell "sky130_fd_sc_hd__nor2_4" (byte position 15268588): Warning:  Ignoring empty string label at (235, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor2_4" (byte position 14793372): Warning:  Ignoring empty string label at (235, 1190)
 Reading "sky130_fd_sc_hd__a32o_4".
 Reading "sky130_fd_sc_hd__dfxtp_4".
 Reading "sky130_fd_sc_hd__a21o_4".
 Reading "sky130_fd_sc_hd__and2_4".
 Reading "sky130_fd_sc_hd__or4_4".
-Error while reading cell "sky130_fd_sc_hd__or4_4" (byte position 15331576): Warning:  Ignoring empty string label at (225, 850)
+Error while reading cell "sky130_fd_sc_hd__or4_4" (byte position 14856360): Warning:  Ignoring empty string label at (225, 850)
 Reading "sky130_fd_sc_hd__nand2_4".
-Error while reading cell "sky130_fd_sc_hd__nand2_4" (byte position 15340490): Warning:  Ignoring empty string label at (3915, 1190)
+Error while reading cell "sky130_fd_sc_hd__nand2_4" (byte position 14865274): Warning:  Ignoring empty string label at (3915, 1190)
 Reading "sky130_fd_sc_hd__a21bo_4".
 Reading "sky130_fd_sc_hd__or2_4".
-Error while reading cell "sky130_fd_sc_hd__or2_4" (byte position 15359374): Warning:  Ignoring empty string label at (235, 850)
+Error while reading cell "sky130_fd_sc_hd__or2_4" (byte position 14884158): Warning:  Ignoring empty string label at (235, 850)
 Reading "sky130_fd_sc_hd__inv_2".
 Reading "sky130_fd_sc_hd__buf_2".
-Reading "sky130_fd_sc_hd__a21boi_4".
 Reading "sky130_fd_sc_hd__a2bb2o_4".
-Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 15396934): Warning:  Ignoring empty string label at (3475, 1190)
-Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 15397034): Warning:  Ignoring empty string label at (6695, 1190)
+Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 14909374): Warning:  Ignoring empty string label at (3475, 1190)
+Error while reading cell "sky130_fd_sc_hd__a2bb2o_4" (byte position 14909474): Warning:  Ignoring empty string label at (6695, 1190)
 Reading "sky130_fd_sc_hd__o21ai_4".
 Reading "sky130_fd_sc_hd__o22a_4".
 Reading "sky130_fd_sc_hd__o21a_4".
 Reading "sky130_fd_sc_hd__and3_4".
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 15437786): Warning:  Ignoring empty string label at (1150, 850)
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 15437886): Warning:  Ignoring empty string label at (230, 1190)
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 15437986): Warning:  Ignoring empty string label at (230, 1530)
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 15438086): Warning:  Ignoring empty string label at (230, 1870)
-Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 15438186): Warning:  Ignoring empty string label at (230, 2210)
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 14950226): Warning:  Ignoring empty string label at (1150, 850)
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 14950326): Warning:  Ignoring empty string label at (230, 1190)
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 14950426): Warning:  Ignoring empty string label at (230, 1530)
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 14950526): Warning:  Ignoring empty string label at (230, 1870)
+Error while reading cell "sky130_fd_sc_hd__and3_4" (byte position 14950626): Warning:  Ignoring empty string label at (230, 2210)
 Reading "sky130_fd_sc_hd__clkbuf_16".
+Reading "sky130_fd_sc_hd__ebufn_2".
 Reading "sky130_fd_sc_hd__dfrtp_4".
-Error while reading cell "sky130_fd_sc_hd__dfrtp_4" (byte position 15454944): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__dfrtp_4" (byte position 14976962): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__dfstp_4".
-Error while reading cell "sky130_fd_sc_hd__dfstp_4" (byte position 15472792): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__o41a_4".
-Error while reading cell "sky130_fd_sc_hd__o41a_4" (byte position 15490522): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hd__a41o_4".
-Error while reading cell "sky130_fd_sc_hd__a41o_4" (byte position 15503682): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__dfstp_4" (byte position 14994810): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__clkinv_1".
-Error while reading cell "sky130_fd_sc_hd__clkinv_1" (byte position 15516206): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__clkinv_1" (byte position 15012542): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__einvn_4".
-Error while reading cell "sky130_fd_sc_hd__einvn_4" (byte position 15520036): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__einvn_4" (byte position 15016372): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__einvp_2".
-Error while reading cell "sky130_fd_sc_hd__einvp_2" (byte position 15527870): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__einvp_2" (byte position 15024206): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__clkbuf_2".
-Error while reading cell "sky130_fd_sc_hd__clkbuf_2" (byte position 15534116): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__clkbuf_2" (byte position 15030452): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__einvn_8".
-Error while reading cell "sky130_fd_sc_hd__einvn_8" (byte position 15538718): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__einvn_8" (byte position 15035054): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__clkinv_8".
-Error while reading cell "sky130_fd_sc_hd__clkinv_8" (byte position 15551040): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__clkinv_8" (byte position 15047376): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__clkinv_2".
-Error while reading cell "sky130_fd_sc_hd__clkinv_2" (byte position 15560288): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__clkinv_2" (byte position 15056624): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__einvp_1".
-Error while reading cell "sky130_fd_sc_hd__einvp_1" (byte position 15564586): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__einvp_1" (byte position 15060922): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__or2_2".
-Error while reading cell "sky130_fd_sc_hd__or2_2" (byte position 15569152): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__or2_2" (byte position 15065488): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "digital_pll".
     100 uses
     200 uses
@@ -2061,50 +2057,51 @@ Reading "digital_pll".
     1000 uses
     1100 uses
     1200 uses
-Reading "sky130_fd_sc_hd__dfbbn_2".
-Error while reading cell "sky130_fd_sc_hd__dfbbn_2" (byte position 17962716): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__o41a_4".
+Error while reading cell "sky130_fd_sc_hd__o41a_4" (byte position 17459052): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hd__a41o_4".
+Error while reading cell "sky130_fd_sc_hd__a41o_4" (byte position 17472212): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hd__nor3b_4".
 Reading "sky130_fd_sc_hd__and3b_4".
-Error while reading cell "sky130_fd_sc_hd__and3b_4" (byte position 18003572): Warning:  Ignoring empty string label at (3910, 1530)
-Error while reading cell "sky130_fd_sc_hd__and3b_4" (byte position 18003672): Warning:  Ignoring empty string label at (1150, 850)
+Error while reading cell "sky130_fd_sc_hd__and3b_4" (byte position 17505536): Warning:  Ignoring empty string label at (3910, 1530)
+Error while reading cell "sky130_fd_sc_hd__and3b_4" (byte position 17505636): Warning:  Ignoring empty string label at (1150, 850)
 Reading "sky130_fd_sc_hd__clkbuf_4".
 Reading "sky130_fd_sc_hd__clkbuf_8".
 Reading "sky130_fd_sc_hd__nor4b_2".
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18030996): Warning:  Ignoring empty string label at (215, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031096): Warning:  Ignoring empty string label at (1135, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031196): Warning:  Ignoring empty string label at (2055, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031296): Warning:  Ignoring empty string label at (2530, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031396): Warning:  Ignoring empty string label at (3450, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031496): Warning:  Ignoring empty string label at (3910, 1190)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031596): Warning:  Ignoring empty string label at (5290, 1530)
-Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 18031696): Warning:  Ignoring empty string label at (5290, 1870)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17532960): Warning:  Ignoring empty string label at (215, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533060): Warning:  Ignoring empty string label at (1135, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533160): Warning:  Ignoring empty string label at (2055, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533260): Warning:  Ignoring empty string label at (2530, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533360): Warning:  Ignoring empty string label at (3450, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533460): Warning:  Ignoring empty string label at (3910, 1190)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533560): Warning:  Ignoring empty string label at (5290, 1530)
+Error while reading cell "sky130_fd_sc_hd__nor4b_2" (byte position 17533660): Warning:  Ignoring empty string label at (5290, 1870)
 Reading "sky130_fd_sc_hd__and4b_2".
-Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 18041000): Warning:  Ignoring empty string label at (2070, 1530)
-Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 18041100): Warning:  Ignoring empty string label at (2070, 1190)
-Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 18041200): Warning:  Ignoring empty string label at (2535, 850)
-Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 18041300): Warning:  Ignoring empty string label at (2535, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 17542964): Warning:  Ignoring empty string label at (2070, 1530)
+Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 17543064): Warning:  Ignoring empty string label at (2070, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 17543164): Warning:  Ignoring empty string label at (2535, 850)
+Error while reading cell "sky130_fd_sc_hd__and4b_2" (byte position 17543264): Warning:  Ignoring empty string label at (2535, 1190)
 Reading "sky130_fd_sc_hd__and4bb_2".
-Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 18052828): Warning:  Ignoring empty string label at (3455, 1190)
-Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 18052928): Warning:  Ignoring empty string label at (3455, 850)
-Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 18053028): Warning:  Ignoring empty string label at (3910, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 17554792): Warning:  Ignoring empty string label at (3455, 1190)
+Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 17554892): Warning:  Ignoring empty string label at (3455, 850)
+Error while reading cell "sky130_fd_sc_hd__and4bb_2" (byte position 17554992): Warning:  Ignoring empty string label at (3910, 1190)
 Reading "sky130_fd_sc_hd__and4_2".
-Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 18061494): Warning:  Ignoring empty string label at (2075, 850)
-Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 18061594): Warning:  Ignoring empty string label at (2075, 510)
-Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 18061694): Warning:  Ignoring empty string label at (235, 850)
-Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 18061794): Warning:  Ignoring empty string label at (235, 1530)
-Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 18061894): Warning:  Ignoring empty string label at (235, 1870)
+Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 17563458): Warning:  Ignoring empty string label at (2075, 850)
+Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 17563558): Warning:  Ignoring empty string label at (2075, 510)
+Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 17563658): Warning:  Ignoring empty string label at (235, 850)
+Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 17563758): Warning:  Ignoring empty string label at (235, 1530)
+Error while reading cell "sky130_fd_sc_hd__and4_2" (byte position 17563858): Warning:  Ignoring empty string label at (235, 1870)
 Reading "sky130_fd_sc_hd__mux4_1".
-Error while reading cell "sky130_fd_sc_hd__mux4_1" (byte position 18085708): Warning:  Ignoring empty string label at (3455, 1870)
-Error while reading cell "sky130_fd_sc_hd__mux4_1" (byte position 18085808): Warning:  Ignoring empty string label at (4885, 1530)
+Error while reading cell "sky130_fd_sc_hd__mux4_1" (byte position 17587672): Warning:  Ignoring empty string label at (3455, 1870)
+Error while reading cell "sky130_fd_sc_hd__mux4_1" (byte position 17587772): Warning:  Ignoring empty string label at (4885, 1530)
 Reading "sky130_fd_sc_hd__ebufn_4".
 Reading "sky130_fd_sc_hd__and2_1".
-Error while reading cell "sky130_fd_sc_hd__and2_1" (byte position 18104796): Warning:  Ignoring empty string label at (230, 1530)
+Error while reading cell "sky130_fd_sc_hd__and2_1" (byte position 17606760): Warning:  Ignoring empty string label at (230, 1530)
 Reading "sky130_fd_sc_hd__inv_1".
 Reading "sky130_fd_sc_hd__dlclkp_1".
-Error while reading cell "sky130_fd_sc_hd__dlclkp_1" (byte position 18124960): Warning:  Ignoring empty string label at (2070, 850)
-Error while reading cell "sky130_fd_sc_hd__dlclkp_1" (byte position 18125060): Warning:  Ignoring empty string label at (2070, 510)
+Error while reading cell "sky130_fd_sc_hd__dlclkp_1" (byte position 17626924): Warning:  Ignoring empty string label at (2070, 850)
+Error while reading cell "sky130_fd_sc_hd__dlclkp_1" (byte position 17627024): Warning:  Ignoring empty string label at (2070, 510)
 Reading "sky130_fd_sc_hd__dfxtp_1".
-Reading "sky130_fd_sc_hd__ebufn_2".
 Reading "DFFRAM".
     100 uses
     200 uses
@@ -5126,29 +5123,110 @@ Reading "mgmt_core".
     261500 uses
     261600 uses
     261700 uses
-Reading "sky130_fd_sc_hvl__decap_8".
-Error while reading cell "sky130_fd_sc_hvl__decap_8" (byte position 231290198): Unknown layer/datatype in boundary, layer=236 type=0
+    261800 uses
+    261900 uses
+    262000 uses
+    262100 uses
+    262200 uses
+    262300 uses
+    262400 uses
+    262500 uses
+    262600 uses
+    262700 uses
+    262800 uses
+    262900 uses
+    263000 uses
+    263100 uses
+    263200 uses
+    263300 uses
+    263400 uses
+    263500 uses
+    263600 uses
+    263700 uses
+    263800 uses
+    263900 uses
+    264000 uses
+    264100 uses
+    264200 uses
+    264300 uses
+    264400 uses
+    264500 uses
+    264600 uses
+    264700 uses
+    264800 uses
+    264900 uses
+    265000 uses
+    265100 uses
+    265200 uses
+    265300 uses
+    265400 uses
+    265500 uses
+    265600 uses
+    265700 uses
+    265800 uses
+    265900 uses
+    266000 uses
+    266100 uses
+    266200 uses
+    266300 uses
+    266400 uses
+    266500 uses
+    266600 uses
+    266700 uses
+    266800 uses
+    266900 uses
+    267000 uses
+    267100 uses
+    267200 uses
+    267300 uses
+    267400 uses
+    267500 uses
+    267600 uses
+    267700 uses
+    267800 uses
+    267900 uses
+    268000 uses
+    268100 uses
+    268200 uses
+    268300 uses
+    268400 uses
+    268500 uses
+    268600 uses
+    268700 uses
+    268800 uses
+    268900 uses
+    269000 uses
+    269100 uses
+    269200 uses
+    269300 uses
+    269400 uses
+    269500 uses
+    269600 uses
+    269700 uses
+    269800 uses
 Reading "sky130_fd_sc_hvl__decap_4".
-Error while reading cell "sky130_fd_sc_hvl__decap_4" (byte position 231292382): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__decap_4" (byte position 231793652): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hvl__decap_8".
+Error while reading cell "sky130_fd_sc_hvl__decap_8" (byte position 231803164): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__fill_1".
-Error while reading cell "sky130_fd_sc_hvl__fill_1" (byte position 231296610): Unknown layer/datatype in boundary, layer=236 type=0
-Reading "sky130_fd_sc_hvl__lsbufhv2lv_1".
-Error while reading cell "sky130_fd_sc_hvl__lsbufhv2lv_1" (byte position 231311972): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__fill_1" (byte position 231804768): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__fill_2".
-Error while reading cell "sky130_fd_sc_hvl__fill_2" (byte position 231317798): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__fill_2" (byte position 231807204): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "sky130_fd_sc_hvl__lsbufhv2lv_1".
+Error while reading cell "sky130_fd_sc_hvl__lsbufhv2lv_1" (byte position 231822950): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped".
 Reading "sky130_fd_pr__cap_mim_m3_1_WRT4AW".
 Reading "sky130_fd_pr__cap_mim_m3_2_W5U4AW".
 Reading "sky130_fd_pr__res_xhigh_po_0p69_S5N9F3".
 Reading "sky130_fd_sc_hvl__fill_4".
-Error while reading cell "sky130_fd_sc_hvl__fill_4" (byte position 231458382): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__fill_4" (byte position 231967820): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__inv_8".
-Error while reading cell "sky130_fd_sc_hvl__inv_8" (byte position 231463506): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__inv_8" (byte position 231972944): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__schmittbuf_1".
-Error while reading cell "sky130_fd_sc_hvl__schmittbuf_1" (byte position 231484834): Unknown layer/datatype in boundary, layer=65 type=14
-Error while reading cell "sky130_fd_sc_hvl__schmittbuf_1" (byte position 231488900): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__schmittbuf_1" (byte position 231994272): Unknown layer/datatype in boundary, layer=65 type=14
+Error while reading cell "sky130_fd_sc_hvl__schmittbuf_1" (byte position 231998338): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_sc_hvl__buf_8".
-Error while reading cell "sky130_fd_sc_hvl__buf_8" (byte position 231492600): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__buf_8" (byte position 232002038): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "sky130_fd_pr__pfet_g5v0d10v5_YUHPXE".
 Reading "sky130_fd_pr__pfet_g5v0d10v5_3YBPVB".
 Reading "sky130_fd_pr__nfet_g5v0d10v5_PKVMTM".
@@ -5159,16 +5237,27 @@ Reading "sky130_fd_pr__nfet_g5v0d10v5_ZK8HQC".
 Reading "sky130_fd_pr__pfet_g5v0d10v5_ZEUEFZ".
 Reading "simple_por".
 Reading "sky130_fd_sc_hd__einvp_8".
-Error while reading cell "sky130_fd_sc_hd__einvp_8" (byte position 231720028): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__einvp_8" (byte position 232229466): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "gpio_control_block".
     100 uses
     200 uses
     300 uses
 Reading "sky130_fd_sc_hd__inv_8".
-Error while reading cell "sky130_fd_sc_hd__inv_8" (byte position 231974198): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hd__inv_8" (byte position 232483636): Unknown layer/datatype in boundary, layer=236 type=0
+Reading "mprj_logic_high".
+    100 uses
+    200 uses
+    300 uses
+    400 uses
+    500 uses
+    600 uses
+    700 uses
+    800 uses
 Reading "sky130_fd_sc_hvl__conb_1".
-Error while reading cell "sky130_fd_sc_hvl__conb_1" (byte position 231984226): Unknown layer/datatype in boundary, layer=236 type=0
+Error while reading cell "sky130_fd_sc_hvl__conb_1" (byte position 232993702): Unknown layer/datatype in boundary, layer=236 type=0
 Reading "mgmt_protect_hv".
+    100 uses
+Reading "mprj2_logic_high".
 Reading "mgmt_protect".
     100 uses
     200 uses
@@ -5246,6 +5335,778 @@ Reading "mgmt_protect".
     7400 uses
     7500 uses
     7600 uses
+    7700 uses
+    7800 uses
+    7900 uses
+    8000 uses
+    8100 uses
+    8200 uses
+Reading "sky130_fd_io__corner_bus_overlay".
+Reading "sky130_ef_io__corner_pad".
+Reading "sky130_ef_io__com_bus_slice_20um".
+Reading "sky130_ef_io__com_bus_slice_10um".
+Reading "sky130_ef_io__com_bus_slice_5um".
+Reading "sky130_ef_io__com_bus_slice_1um".
+Reading "sky130_ef_io__connect_vcchib_vccd_and_vswitch_vddio_slice_20um".
+Reading "sky130_fd_pr__hvdfl1sd__example_5595914180851".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808664".
+Reading "sky130_fd_io__sio_clamp_pcap_4x5".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808680".
+Reading "sky130_fd_io__esd_rcclamp_nfetcap".
+Reading "sky130_fd_pr__dfl1sd2__example_55959141808666".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808336".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808665".
+Reading "sky130_fd_pr__dfl1sd2__example_55959141808679".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808678".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808677".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808660".
+Reading "sky130_fd_pr__dfl1__example_55959141808663".
+Reading "sky130_fd_pr__hvdftpl1s2__example_55959141808672".
+Reading "sky130_fd_pr__hvdftpl1s__example_55959141808671".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808673".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808670".
+Reading "sky130_fd_pr__via_pol1__example_5595914180839".
+Reading "sky130_fd_pr__res_bent_po__example_55959141808668".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808668" (byte position 238809198): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__dfl1__example_55959141808662".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808661".
+Reading "sky130_fd_pr__via_l1m1__example_559591418084".
+Reading "sky130_fd_pr__hvdftpl1s2__example_55959141808676".
+Reading "sky130_fd_pr__hvdftpl1s__example_55959141808675".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808674".
+Reading "sky130_fd_io__com_bus_slice".
+Reading "sky130_fd_io__com_bus_hookup".
+Reading "sky130_fd_pr__genrivetdlring__example_559591418082".
+Reading "sky130_fd_pr__gendlring__example_559591418081".
+Reading "sky130_fd_pr__padplhp__example_559591418080".
+Error while reading cell "sky130_fd_pr__padplhp__example_559591418080" (byte position 239012670): Unknown layer/datatype in boundary, layer=81 type=20
+Reading "sky130_fd_io__pad_esd".
+Reading "sky130_fd_io__com_busses_esd".
+Reading "sky130_fd_pr__res_bent_po__example_55959141808667".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808667" (byte position 239016260): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_bent_po__example_55959141808669".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808669" (byte position 239017446): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__top_ground_hvc_wpad".
+    100 uses
+Reading "sky130_fd_io__overlay_vssa_hvc".
+Reading "sky130_ef_io__vssa_hvc_pad".
+Reading "sky130_fd_io__res250_sub_small".
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243139976): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243140008): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243140884): Unknown layer/datatype in boundary, layer=81 type=19
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243140948): Unknown layer/datatype in boundary, layer=66 type=14
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142600): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142632): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142664): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142696): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142728): NODE elements not supported: skipping.
+Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 243142824): NODE elements not supported: skipping.
+Reading "sky130_fd_io__res250only_small".
+Error while reading cell "sky130_fd_io__res250only_small" (byte position 243143190): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808719".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808767".
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808765".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808764".
+Reading "sky130_fd_pr__res_generic_po__example_5595914180838".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180838" (byte position 243149172): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__tk_tie_r_out_esd".
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808243".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808723".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808722".
+Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180890".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808721".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808720".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808718".
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808717".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808716".
+Reading "sky130_fd_io__xres_inv_hysv2".
+Reading "sky130_fd_pr__via_l1m1__example_5595914180858".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808264".
+Reading "sky130_fd_pr__via_pol1__example_5595914180833".
+Reading "sky130_fd_pr__res_generic_po__example_5595914180864".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180864" (byte position 243177678): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__tk_em1s_cdns_5595914180859".
+Reading "sky130_fd_io__tk_em1s_cdns_55959141808288".
+Reading "sky130_fd_pr__res_bent_po__example_5595914180863".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180863" (byte position 243179730): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_bent_po__example_5595914180862".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180862" (byte position 243180338): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_bent_po__example_55959141808715".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808715" (byte position 243181268): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__tk_em1o_cdns_55959141808289".
+Reading "sky130_fd_io__com_res_weak_v2".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808728".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808727".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808726".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808554".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808725".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808553".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808261".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808259".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808724".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808402".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808260".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808350".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808552".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808551".
+Reading "sky130_fd_pr__via_l1m1__example_5595914180897".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808127".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808290".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808326".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808372".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808128".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808400".
+Reading "sky130_fd_pr__via_pol1__example_55959141808274".
+Reading "sky130_fd_pr__dfl1__example_55959141808158".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808157".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808156".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808155".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808154".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808153".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808152".
+Reading "sky130_fd_pr__tpl1__example_55959141808151".
+Reading "sky130_fd_pr__tpl1__example_55959141808150".
+Reading "sky130_fd_pr__tpl1__example_55959141808149".
+Reading "sky130_fd_pr__tpl1__example_55959141808148".
+Reading "sky130_fd_pr__via_pol1__example_55959141808147".
+Reading "sky130_fd_io__signal_5_sym_hv_local_5term".
+Error while reading cell "sky130_fd_io__signal_5_sym_hv_local_5term" (byte position 243222586): Unknown layer/datatype in boundary, layer=81 type=19
+Error while reading cell "sky130_fd_io__signal_5_sym_hv_local_5term" (byte position 243223578): Unknown layer/datatype in boundary, layer=66 type=9
+Reading "sky130_fd_pr__dfl1sd__example_5595914180819".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808555".
+Reading "sky130_fd_io__gpio_buf_localesdv2".
+Error while reading cell "sky130_fd_io__gpio_buf_localesdv2" (byte position 243227260): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_pr__via_pol1__example_559591418083".
+Reading "sky130_fd_pr__dfl1sd__example_559591418086".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808316".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808137".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808421".
+Reading "sky130_fd_pr__dfl1sd__example_559591418088".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808385".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808370".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808422".
+Reading "sky130_fd_io__hvsbt_inv_x2".
+Reading "sky130_fd_pr__via_pol1__example_55959141808612".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808616".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808615".
+Reading "sky130_fd_io__hvsbt_inv_x4".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808371".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808369".
+Reading "sky130_fd_io__hvsbt_inv_x1".
+Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180849".
+Reading "sky130_fd_pr__hvdfm1sd__example_5595914180848".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808766".
+Reading "sky130_fd_pr__via_m2m3__example_55959141808714".
+Reading "sky130_fd_pr__via_pol1_centered__example_559591418081".
+Reading "sky130_fd_io__tk_em2s_cdns_55959141808652".
+Reading "sky130_fd_io__tk_em2o_cdns_55959141808653".
+Reading "sky130_fd_pr__via_l1m1_centered__example_559591418086".
+Reading "sky130_fd_pr__via_l1m1_centered__example_559591418084".
+Reading "sky130_fd_pr__via_l1m1_centered__example_5595914180812".
+Reading "sky130_fd_pr__via_l1m1_centered__example_5595914180811".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808202".
+Reading "sky130_fd_pr__hvdftpm1s2__example_55959141808659".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808658".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808657".
+Reading "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2".
+Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2" (byte position 243325354): Unknown layer/datatype in boundary, layer=81 type=8
+Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2" (byte position 243327146): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__gpio_pudrvr_strong_axres4v2".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808752".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808751".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808750".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808270".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808749".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808748".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808747".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808746".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808745".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808324".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808744".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808743".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808742".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808741".
+Reading "sky130_fd_pr__via_pol1__example_55959141808273".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808740".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808739".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808738".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808737".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808736".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808735".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808734".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808733".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808732".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808731".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808730".
+Reading "sky130_fd_pr__dfl1__example_55959141808729".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808337".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808338".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808763".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808559".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808700".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808762".
+Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808761".
+Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808760".
+Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808759".
+Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808758".
+Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808757".
+Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808756".
+Reading "sky130_fd_pr__dfl1__example_55959141808187".
+Reading "sky130_fd_pr__res_generic_nd__example_55959141808755".
+Error while reading cell "sky130_fd_pr__res_generic_nd__example_55959141808755" (byte position 244252496): Unknown layer/datatype in boundary, layer=65 type=14
+Reading "sky130_fd_pr__res_generic_nd__example_55959141808754".
+Error while reading cell "sky130_fd_pr__res_generic_nd__example_55959141808754" (byte position 244253118): Unknown layer/datatype in boundary, layer=65 type=14
+Reading "sky130_fd_io__xres_p_em1c_cdns_55959141808753".
+Reading "sky130_fd_io__xres2v2_rcfilter_lpfv2".
+    100 uses
+    200 uses
+    300 uses
+    400 uses
+    500 uses
+    600 uses
+Reading "sky130_fd_pr__res_bent_po__example_5595914180861".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180861" (byte position 244789512): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__com_res_weak_bentbigres".
+Reading "sky130_fd_io__tk_em1o_cdns_5595914180860".
+Reading "sky130_fd_io__com_res_weak".
+Reading "sky130_fd_pr__via_l1m1__example_5595914180857".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808378".
+Reading "sky130_fd_pr__hvdftpm1s2__example_55959141808649".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808651".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808650".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808648".
+Reading "sky130_fd_pr__hvdftpl1s__example_55959141808646".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808647".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808645".
+Reading "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2".
+Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2" (byte position 244832106): Unknown layer/datatype in boundary, layer=81 type=8
+Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2" (byte position 244833898): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__gpio_pddrvr_strong_xres4v2".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808787".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808786".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808782".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808785".
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808449".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808784".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808452".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808783".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808781".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808780".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808779".
+Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180827".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808233".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808778".
+Reading "sky130_fd_pr__hvdfm1sd__example_5595914180835".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808777".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808776".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808775".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808242".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808774".
+Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180829".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808773".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808237".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808772".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808771".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808770".
+Reading "sky130_fd_pr__nfet_01v8__example_559591418089".
+Reading "sky130_fd_pr__nfet_01v8__example_559591418087".
+Reading "sky130_fd_pr__pfet_01v8__example_559591418085".
+Reading "sky130_fd_io__hvsbt_nand2".
+Reading "sky130_fd_pr__res_bent_nd__example_55959141808769".
+Error while reading cell "sky130_fd_pr__res_bent_nd__example_55959141808769" (byte position 245710450): Unknown layer/datatype in boundary, layer=65 type=14
+Reading "sky130_fd_pr__res_bent_po__example_55959141808768".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808768" (byte position 245713740): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__inv_1".
+Reading "sky130_fd_io__tap_1".
+Reading "sky130_fd_io__xres4v2_in_buf".
+Reading "sky130_fd_io__top_gpio_pad".
+Reading "sky130_fd_io__com_busses".
+Reading "sky130_fd_io__top_xres4v2".
+Reading "sky130_fd_io__com_bus_slice_m4".
+Reading "sky130_fd_io__overlay_gpiov2_m4".
+Reading "sky130_fd_io__overlay_gpiov2".
+Reading "sky130_fd_io__res75only_small".
+Error while reading cell "sky130_fd_io__res75only_small" (byte position 251165888): Unknown layer/datatype in boundary, layer=66 type=14
+Error while reading cell "sky130_fd_io__res75only_small" (byte position 251165952): Unknown layer/datatype in boundary, layer=81 type=19
+Reading "sky130_fd_pr__via_pol1_centered__example_559591418080".
+Reading "sky130_fd_pr__via_l1m1__example_5595914180832".
+Reading "sky130_fd_pr__via_pol1__example_5595914180854".
+Reading "sky130_fd_pr__res_generic_po__example_5595914180856".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180856" (byte position 251168728): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_generic_po__example_5595914180855".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180855" (byte position 251169294): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_generic_po__example_5595914180853".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180853" (byte position 251169860): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__tk_em1s_cdns_5595914180852".
+Reading "sky130_fd_pr__nfet_01v8__example_5595914180850".
+Reading "sky130_fd_io__gpio_pddrvr_strong_slowv2".
+Error while reading cell "sky130_fd_io__gpio_pddrvr_strong_slowv2" (byte position 251172002): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_pr__via_l1m1_centered__example_559591418085".
+Reading "sky130_fd_io__pfet_con_diff_wo_abt_270v2".
+Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270v2" (byte position 251490884): Unknown layer/datatype in boundary, layer=81 type=8
+Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270v2" (byte position 251492676): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__gpio_pudrvr_strongv2".
+Reading "sky130_fd_io__gpio_pddrvr_weakv2".
+Error while reading cell "sky130_fd_io__gpio_pddrvr_weakv2" (byte position 252214456): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808563".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808655".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808654".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808656".
+Reading "sky130_fd_io__com_pudrvr_weakv2".
+Error while reading cell "sky130_fd_io__com_pudrvr_weakv2" (byte position 252285248): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__com_pudrvr_strong_slowv2".
+Error while reading cell "sky130_fd_io__com_pudrvr_strong_slowv2" (byte position 252319400): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_pr__via_l1m1_centered__example_559591418083".
+Reading "sky130_fd_pr__via_l1m1_centered__example_559591418082".
+Reading "sky130_fd_io__nfet_con_diff_wo_abt_270v2".
+Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270v2" (byte position 252403686): Unknown layer/datatype in boundary, layer=81 type=8
+Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270v2" (byte position 252405478): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__gpiov2_pddrvr_strong".
+Reading "sky130_fd_io__gpio_odrvr_subv2".
+Reading "sky130_fd_io__gpio_odrvrv2".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808267".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808266".
+Reading "sky130_fd_pr__via_pol1__example_55959141808298".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808194".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808284".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808361".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808115".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808360".
+Reading "sky130_fd_io__feas_com_pupredrvr_weak".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808143".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808102".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808366".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808365".
+Reading "sky130_fd_io__com_pdpredrvr_weakv2".
+Reading "sky130_fd_pr__via_pol1__example_55959141808272".
+Reading "sky130_fd_pr__via_m1m2__example_55959141808271".
+Reading "sky130_fd_pr__via_l1m1__example_5595914180878".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808101".
+Reading "sky130_fd_pr__dfl1sd__example_5595914180811".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808142".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808100".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_5595914180899".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808144".
+Reading "sky130_fd_io__tk_em1o_cdns_5595914180880".
+Reading "sky130_fd_io__tk_em1s_cdns_5595914180882".
+Reading "sky130_fd_pr__tpl1__example_55959141808300".
+Reading "sky130_fd_pr__tpl1__example_55959141808299".
+Reading "sky130_fd_pr__via_pol1__example_55959141808297".
+Reading "sky130_fd_pr__via_pol1__example_55959141808296".
+Reading "sky130_fd_pr__via_pol1__example_55959141808295".
+Reading "sky130_fd_pr__via_pol1__example_55959141808294".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808293".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808292".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808291".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808122".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808319".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808318".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808317".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808315".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808314".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808313".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808312".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808311".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808306".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808310".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808278".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808309".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808308".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808282".
+Reading "sky130_fd_pr__hvdfl1sd__example_5595914180894".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808281".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808307".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808305".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808304".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808303".
+Reading "sky130_fd_io__tk_em1o_cdns_55959141808302".
+Reading "sky130_fd_io__tk_em1s_cdns_5595914180881".
+Reading "sky130_fd_io__tk_em1s_cdns_55959141808301".
+Reading "sky130_fd_io__feascom_pupredrvr_nbiasv2".
+    100 uses
+Reading "sky130_fd_pr__via_m1m2__example_55959141808276".
+Reading "sky130_fd_pr__via_pol1__example_55959141808275".
+Reading "sky130_fd_pr__res_generic_po__example_55959141808286".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_55959141808286" (byte position 254217104): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_generic_po__example_55959141808285".
+Error while reading cell "sky130_fd_pr__res_generic_po__example_55959141808285" (byte position 254217670): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808283".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808287".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808644".
+Reading "sky130_fd_io__gpiov2_pupredrvr_strong_nd2".
+Reading "sky130_fd_io__gpiov2_pupredrvr_strong_nd2_a".
+Reading "sky130_fd_io__gpio_pupredrvr_strongv2".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808363".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808362".
+Reading "sky130_fd_io__com_pupredrvr_strong_slowv2".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808364".
+Reading "sky130_fd_io__com_pdpredrvr_strong_slowv2".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808140".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808139".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808183".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808643".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808184".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808141".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808642".
+Reading "sky130_fd_pr__nfet_01v8__example_5595914180888".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808628".
+Reading "sky130_fd_io__gpiov2_octl_mux".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808325".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808323".
+Reading "sky130_fd_pr__via_pol1__example_55959141808322".
+Reading "sky130_fd_pr__via_pol1__example_55959141808321".
+Reading "sky130_fd_pr__via_pol1__example_55959141808320".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808641".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808640".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808639".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808348".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808347".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808346".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808345".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808344".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808343".
+Reading "sky130_fd_pr__dfl1sd__example_5595914180868".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808334".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808333".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808332".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808134".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808331".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808330".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808329".
+Reading "sky130_fd_io__tk_em1o_cdns_5595914180879".
+Reading "sky130_fd_io__tk_em1o_cdns_55959141808328".
+Reading "sky130_fd_io__tk_em1o_cdns_55959141808327".
+Reading "sky130_fd_io__com_pdpredrvr_pbiasv2".
+    100 uses
+Reading "sky130_fd_pr__dfl1sd2__example_5595914180884".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808638".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808637".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808123".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808636".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808630".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808106".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808481".
+Reading "sky130_fd_pr__dfl1sd2__example_5595914180875".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808635".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808634".
+Reading "sky130_fd_pr__dfl1sd2__example_55959141808633".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808632".
+Reading "sky130_fd_io__gpiov2_pdpredrvr_strong_nr3".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808116".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808631".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808629".
+Reading "sky130_fd_pr__dfl1sd2__example_5595914180812".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808627".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808626".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808354".
+Reading "sky130_fd_io__gpiov2_pdpredrvr_strong_nr2".
+Reading "sky130_fd_io__gpiov2_pdpredrvr_strong".
+Reading "sky130_fd_io__gpiov2_obpredrvr".
+Reading "sky130_fd_pr__via_pol1__example_55959141808394".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808434".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808435".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808433".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808432".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808431".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808430".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808429".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808428".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808427".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808383".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808382".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808380".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808379".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808426".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808425".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808280".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808424".
+Reading "sky130_fd_pr__dfl1sd2__example_5595914180816".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808423".
+Reading "sky130_fd_io__com_ctl_ls_octl".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808418".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808420".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808419".
+Reading "sky130_fd_io__hvsbt_nor".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808417".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808416".
+Reading "sky130_fd_io__hvsbt_xorv2".
+Reading "sky130_fd_io__hvsbt_xor".
+Reading "sky130_fd_io__gpiov2_octl".
+Reading "sky130_fd_pr__tpl1__example_55959141808625".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808368".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808401".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808269".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808399".
+Reading "sky130_fd_pr__via_pol1__example_55959141808398".
+Reading "sky130_fd_pr__via_pol1__example_55959141808397".
+Reading "sky130_fd_pr__via_pol1__example_55959141808396".
+Reading "sky130_fd_pr__via_pol1__example_55959141808395".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808410".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808409".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808408".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808407".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808406".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808405".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808404".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808403".
+Reading "sky130_fd_io__com_cclat".
+    100 uses
+Reading "sky130_fd_pr__tpl1__example_55959141808374".
+Reading "sky130_fd_pr__via_pol1__example_55959141808373".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808393".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808392".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808391".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808390".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808389".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808388".
+Reading "sky130_fd_pr__dfl1sd__example_5595914180815".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808387".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808386".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808384".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808381".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808377".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808376".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808375".
+Reading "sky130_fd_io__gpio_dat_lsv2".
+Reading "sky130_fd_io__gpio_dat_ls_1v2".
+Reading "sky130_fd_io__com_opath_datoev2".
+Reading "sky130_fd_io__gpiov2_octl_dat".
+Reading "sky130_fd_io__gpio_opathv2".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808624".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808510".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808623".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808622".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808621".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808620".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808619".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808618".
+Reading "sky130_fd_pr__dfl1sd__example_5595914180823".
+Reading "sky130_fd_pr__pfet_01v8__example_5595914180822".
+Reading "sky130_fd_pr__pfet_01v8__example_5595914180813".
+Reading "sky130_fd_io__com_ctl_lsv2".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808440".
+Reading "sky130_fd_io__com_ctl_ls_1v2".
+Reading "sky130_fd_io__tk_em2s_cdns_55959141808438".
+Reading "sky130_fd_io__tk_em2o_cdns_55959141808439".
+Reading "sky130_fd_io__com_ctl_ls_v2".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808617".
+Reading "sky130_fd_io__com_ctl_ls_en_1_v2".
+Reading "sky130_fd_io__gpiov2_ctl_lsbank".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808614".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808613".
+Reading "sky130_fd_io__hvsbt_inv_x8".
+Reading "sky130_fd_io__com_ctl_ls".
+Reading "sky130_fd_io__hvsbt_inv_x8v2".
+Reading "sky130_fd_io__com_ctl_hldv2".
+Reading "sky130_fd_io__gpiov2_ctl".
+Reading "sky130_fd_io__hvsbt_nand2v2".
+Reading "sky130_fd_io__gpiov2_ictl_logic".
+CIF file read warning: Input off lambda grid by 2/5; snapped to grid.
+Reading "sky130_fd_io__gpiov2_buf_localesd".
+Error while reading cell "sky130_fd_io__gpiov2_buf_localesd" (byte position 255446392): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_pr__dfl1sd2__example_55959141808518".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808517".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808607".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808550".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808533".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808528".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808504".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808600".
+Reading "sky130_fd_pr__dfl1sd__example_55959141808190".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808548".
+Reading "sky130_fd_pr__dfl1sd2__example_55959141808191".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808189".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808537".
+Reading "sky130_fd_io__gpiov2_ipath_hvls".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808611".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808549".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808610".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808604".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808609".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808529".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808230".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808608".
+Reading "sky130_fd_io__gpiov2_in_buf".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808595".
+Reading "sky130_fd_pr__nfet_01v8__example_5595914180825".
+Reading "sky130_fd_io__gpiov2_inbuf_lvinv_x1".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808547".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808546".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808599".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808598".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808597".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808596".
+Reading "sky130_fd_io__gpiov2_ipath_lvls".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808606".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808605".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808540".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808535".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808527".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808603".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808602".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808601".
+Reading "sky130_fd_io__gpiov2_vcchib_in_buf".
+Reading "sky130_fd_io__gpiov2_ibuf_se".
+Reading "sky130_fd_io__gpiov2_ipath".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808594".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808593".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808488".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808592".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808178".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808591".
+Reading "sky130_fd_io__gpiov2_amux_ctl_inv_1".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808468".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808467".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808466".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808465".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808464".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808463".
+Reading "sky130_fd_pr__hvdfl1sd__example_55959141808476".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808590".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808460".
+Reading "sky130_fd_io__gpiov2_amux_ctl_ls".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808570".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808569".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808589".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808475".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808477".
+Reading "sky130_fd_io__gpiov2_amux_ctl_lshv2hv".
+Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808588".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808587".
+Reading "sky130_fd_io__gpiov2_amux_ctl_lshv2hv2".
+Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808586".
+Reading "sky130_fd_io__gpiov2_amux_ls".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808451".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808200".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808450".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808457".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808248".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808447".
+Reading "sky130_fd_pr__dfm1sd__example_55959141808258".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808446".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808445".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808585".
+Reading "sky130_fd_io__gpiov2_amux_nand4".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808455".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808584".
+Reading "sky130_fd_io__gpiov2_amux_nand5".
+Reading "sky130_fd_io__nor2_1".
+Reading "sky130_fd_io__nand2_1".
+Reading "sky130_fd_io__xor2_1".
+Reading "sky130_fd_io__gpiov2_amux_decoder".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808498".
+Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808462".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808583".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808582".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808497".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808496".
+Reading "sky130_fd_pr__hvdfm1sd__example_55959141808581".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808580".
+Reading "sky130_fd_io__gpiov2_amux_drvr_ls".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808579".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808578".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808577".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808576".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808575".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808574".
+Reading "sky130_fd_io__amx_inv1".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808573".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808572".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808568".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808567".
+Reading "sky130_fd_io__gpiov2_amux_drvr_lshv2hv".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808441".
+Reading "sky130_fd_pr__dfl1sd2__example_5595914180869".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808571".
+Reading "sky130_fd_io__gpiov2_amx_inv4".
+Reading "sky130_fd_io__gpiov2_amux_drvr_lshv2hv2".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808566".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808565".
+Reading "sky130_fd_io__gpiov2_amx_pucsd_inv".
+Reading "sky130_fd_io__gpiov2_amux_drvr".
+Reading "sky130_fd_io__gpiov2_amux_ctl_logic".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808564".
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808562".
+Reading "sky130_fd_pr__dfm1sd2__example_55959141808561".
+Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808251".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808560".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808558".
+Reading "sky130_fd_io__amux_switch_1v2b".
+Error while reading cell "sky130_fd_io__amux_switch_1v2b" (byte position 256548702): Unknown layer/datatype in boundary, layer=81 type=6
+Reading "sky130_fd_io__gpiov2_amux".
+Reading "sky130_fd_io__top_gpiov2".
+Reading "sky130_ef_io__gpiov2_pad".
+Reading "sky130_ef_io__gpiov2_pad_wrapped".
+Reading "sky130_fd_pr__tpl1__example_55959141808686".
+Reading "sky130_fd_pr__tpl1__example_55959141808685".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808684".
+Reading "sky130_fd_pr__via_l1m1__example_55959141808683".
+Reading "sky130_fd_io__gnd2gnd_strap".
+Reading "sky130_fd_io__gnd2gnd_diff".
+Reading "sky130_fd_io__gnd2gnd_tap".
+Reading "sky130_fd_io__gnd2gnd_sub_dnwl".
+Reading "sky130_fd_io__gnd2gnd_120x2_lv_isosub".
+Error while reading cell "sky130_fd_io__gnd2gnd_120x2_lv_isosub" (byte position 259125470): Unknown layer/datatype in boundary, layer=81 type=19
+Reading "sky130_fd_pr__pfet_01v8__example_55959141808687".
+Reading "sky130_fd_pr__res_bent_po__example_55959141808691".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808691" (byte position 259135428): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_bent_po__example_55959141808690".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808690" (byte position 259137126): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__dfl1__example_55959141808682".
+Reading "sky130_fd_pr__dftpl1s2__example_55959141808702".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808705".
+Reading "sky130_fd_pr__dfl1__example_55959141808681".
+Reading "sky130_fd_pr__dftpl1s2__example_55959141808694".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808693".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808697".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808698".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808696".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808699".
+Reading "sky130_fd_pr__res_bent_po__example_55959141808688".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808688" (byte position 259199510): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808695".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808704".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808703".
+Reading "sky130_fd_pr__nfet_01v8__example_55959141808701".
+Reading "sky130_fd_pr__res_bent_po__example_55959141808689".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808689" (byte position 259255748): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_pr__res_bent_po__example_55959141808692".
+Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808692" (byte position 259257446): Unknown layer/datatype in boundary, layer=66 type=14
+Reading "sky130_fd_io__top_ground_lvc_wpad".
+    100 uses
+    200 uses
+    300 uses
+    400 uses
+Reading "sky130_fd_io__overlay_vssd_lvc".
+Reading "sky130_ef_io__vssd_lvc_pad".
+Reading "sky130_fd_io__overlay_vssio_hvc".
+Reading "sky130_ef_io__vssio_hvc_pad".
+Reading "sky130_fd_io__hvc_clampv2".
+    100 uses
+Reading "sky130_fd_io__top_power_hvc_wpadv2".
+Reading "sky130_fd_io__overlay_vdda_lvc".
+Reading "sky130_ef_io__vdda_hvc_pad".
+Reading "sky130_fd_io__top_power_lvc_wpad".
+    100 uses
+    200 uses
+    300 uses
+    400 uses
+Reading "sky130_fd_io__overlay_vccd_lvc".
+Reading "sky130_ef_io__vccd_lvc_pad".
+Reading "sky130_ef_io__disconnect_vdda_slice_5um".
+Reading "sky130_ef_io__disconnect_vccd_slice_5um".
+Reading "sky130_fd_io__overlay_vddio_hvc".
+Reading "sky130_ef_io__vddio_hvc_pad".
+Reading "chip_io".
+    100 uses
+    200 uses
+    300 uses
+    400 uses
+    500 uses
+    600 uses
+    700 uses
+    800 uses
+Reading "sky130_fd_sc_hd__a21boi_4".
 Reading "Ibtida_top_dffram_cv".
     100 uses
     200 uses
@@ -8045,771 +8906,6 @@ Reading "Ibtida_top_dffram_cv".
     279600 uses
     279700 uses
 Reading "user_project_wrapper".
-Reading "sky130_ef_io__com_bus_slice_20um".
-Reading "sky130_fd_io__corner_bus_overlay".
-Reading "sky130_ef_io__corner_pad".
-Reading "sky130_ef_io__com_bus_slice_10um".
-Reading "sky130_ef_io__com_bus_slice_5um".
-Reading "sky130_ef_io__com_bus_slice_1um".
-Reading "sky130_ef_io__connect_vcchib_vccd_and_vswitch_vddio_slice_20um".
-Reading "sky130_fd_pr__hvdfl1sd__example_5595914180851".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808664".
-Reading "sky130_fd_io__sio_clamp_pcap_4x5".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808680".
-Reading "sky130_fd_io__esd_rcclamp_nfetcap".
-Reading "sky130_fd_pr__dfl1sd2__example_55959141808666".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808336".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808665".
-Reading "sky130_fd_pr__dfl1sd2__example_55959141808679".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808678".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808677".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808660".
-Reading "sky130_fd_pr__dfl1__example_55959141808663".
-Reading "sky130_fd_pr__hvdftpl1s2__example_55959141808672".
-Reading "sky130_fd_pr__hvdftpl1s__example_55959141808671".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808673".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808670".
-Reading "sky130_fd_pr__via_pol1__example_5595914180839".
-Reading "sky130_fd_pr__res_bent_po__example_55959141808668".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808668" (byte position 536517216): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__dfl1__example_55959141808662".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808661".
-Reading "sky130_fd_pr__via_l1m1__example_559591418084".
-Reading "sky130_fd_pr__hvdftpl1s2__example_55959141808676".
-Reading "sky130_fd_pr__hvdftpl1s__example_55959141808675".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808674".
-Reading "sky130_fd_io__com_bus_slice".
-Reading "sky130_fd_io__com_bus_hookup".
-Reading "sky130_fd_pr__genrivetdlring__example_559591418082".
-Reading "sky130_fd_pr__gendlring__example_559591418081".
-Reading "sky130_fd_pr__padplhp__example_559591418080".
-Error while reading cell "sky130_fd_pr__padplhp__example_559591418080" (byte position 536720688): Unknown layer/datatype in boundary, layer=81 type=20
-Reading "sky130_fd_io__pad_esd".
-Reading "sky130_fd_io__com_busses_esd".
-Reading "sky130_fd_pr__res_bent_po__example_55959141808667".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808667" (byte position 536724278): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_bent_po__example_55959141808669".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808669" (byte position 536725464): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__top_ground_hvc_wpad".
-    100 uses
-Reading "sky130_fd_io__overlay_vssa_hvc".
-Reading "sky130_ef_io__vssa_hvc_pad".
-Reading "sky130_fd_io__res250_sub_small".
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540847994): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540848026): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540848902): Unknown layer/datatype in boundary, layer=81 type=19
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540848966): Unknown layer/datatype in boundary, layer=66 type=14
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850618): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850650): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850682): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850714): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850746): NODE elements not supported: skipping.
-Error while reading cell "sky130_fd_io__res250_sub_small" (byte position 540850842): NODE elements not supported: skipping.
-Reading "sky130_fd_io__res250only_small".
-Error while reading cell "sky130_fd_io__res250only_small" (byte position 540851208): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808719".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808767".
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808765".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808764".
-Reading "sky130_fd_pr__res_generic_po__example_5595914180838".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180838" (byte position 540857190): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__tk_tie_r_out_esd".
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808243".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808723".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808722".
-Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180890".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808721".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808720".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808718".
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808717".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808716".
-Reading "sky130_fd_io__xres_inv_hysv2".
-Reading "sky130_fd_pr__via_l1m1__example_5595914180858".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808264".
-Reading "sky130_fd_pr__via_pol1__example_5595914180833".
-Reading "sky130_fd_pr__res_generic_po__example_5595914180864".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180864" (byte position 540885696): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__tk_em1s_cdns_5595914180859".
-Reading "sky130_fd_io__tk_em1s_cdns_55959141808288".
-Reading "sky130_fd_pr__res_bent_po__example_5595914180863".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180863" (byte position 540887748): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_bent_po__example_5595914180862".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180862" (byte position 540888356): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_bent_po__example_55959141808715".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808715" (byte position 540889286): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__tk_em1o_cdns_55959141808289".
-Reading "sky130_fd_io__com_res_weak_v2".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808728".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808727".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808726".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808554".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808725".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808553".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808261".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808259".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808724".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808402".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808260".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808350".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808552".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808551".
-Reading "sky130_fd_pr__via_l1m1__example_5595914180897".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808127".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808290".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808326".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808372".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808128".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808400".
-Reading "sky130_fd_pr__via_pol1__example_55959141808274".
-Reading "sky130_fd_pr__dfl1__example_55959141808158".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808157".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808156".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808155".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808154".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808153".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808152".
-Reading "sky130_fd_pr__tpl1__example_55959141808151".
-Reading "sky130_fd_pr__tpl1__example_55959141808150".
-Reading "sky130_fd_pr__tpl1__example_55959141808149".
-Reading "sky130_fd_pr__tpl1__example_55959141808148".
-Reading "sky130_fd_pr__via_pol1__example_55959141808147".
-Reading "sky130_fd_io__signal_5_sym_hv_local_5term".
-Error while reading cell "sky130_fd_io__signal_5_sym_hv_local_5term" (byte position 540930604): Unknown layer/datatype in boundary, layer=81 type=19
-Error while reading cell "sky130_fd_io__signal_5_sym_hv_local_5term" (byte position 540931596): Unknown layer/datatype in boundary, layer=66 type=9
-Reading "sky130_fd_pr__dfl1sd__example_5595914180819".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808555".
-Reading "sky130_fd_io__gpio_buf_localesdv2".
-Error while reading cell "sky130_fd_io__gpio_buf_localesdv2" (byte position 540935278): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_pr__via_pol1__example_559591418083".
-Reading "sky130_fd_pr__dfl1sd__example_559591418086".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808316".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808137".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808421".
-Reading "sky130_fd_pr__dfl1sd__example_559591418088".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808385".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808370".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808422".
-Reading "sky130_fd_io__hvsbt_inv_x2".
-Reading "sky130_fd_pr__via_pol1__example_55959141808612".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808616".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808615".
-Reading "sky130_fd_io__hvsbt_inv_x4".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808371".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808369".
-Reading "sky130_fd_io__hvsbt_inv_x1".
-Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180849".
-Reading "sky130_fd_pr__hvdfm1sd__example_5595914180848".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808766".
-Reading "sky130_fd_pr__via_m2m3__example_55959141808714".
-Reading "sky130_fd_pr__via_pol1_centered__example_559591418081".
-Reading "sky130_fd_io__tk_em2s_cdns_55959141808652".
-Reading "sky130_fd_io__tk_em2o_cdns_55959141808653".
-Reading "sky130_fd_pr__via_l1m1_centered__example_559591418086".
-Reading "sky130_fd_pr__via_l1m1_centered__example_559591418084".
-Reading "sky130_fd_pr__via_l1m1_centered__example_5595914180812".
-Reading "sky130_fd_pr__via_l1m1_centered__example_5595914180811".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808202".
-Reading "sky130_fd_pr__hvdftpm1s2__example_55959141808659".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808658".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808657".
-Reading "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2".
-Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2" (byte position 541033372): Unknown layer/datatype in boundary, layer=81 type=8
-Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270_xres4v2" (byte position 541035164): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__gpio_pudrvr_strong_axres4v2".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808752".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808751".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808750".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808270".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808749".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808748".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808747".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808746".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808745".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808324".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808744".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808743".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808742".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808741".
-Reading "sky130_fd_pr__via_pol1__example_55959141808273".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808740".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808739".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808738".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808737".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808736".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808735".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808734".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808733".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808732".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808731".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808730".
-Reading "sky130_fd_pr__dfl1__example_55959141808729".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808337".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808338".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808763".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808559".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808700".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808762".
-Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808761".
-Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808760".
-Reading "sky130_fd_io__xres_tk_p_em1c_cdns_55959141808759".
-Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808758".
-Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808757".
-Reading "sky130_fd_io__xres_tk_p_em1o_cdns_55959141808756".
-Reading "sky130_fd_pr__dfl1__example_55959141808187".
-Reading "sky130_fd_pr__res_generic_nd__example_55959141808755".
-Error while reading cell "sky130_fd_pr__res_generic_nd__example_55959141808755" (byte position 541960514): Unknown layer/datatype in boundary, layer=65 type=14
-Reading "sky130_fd_pr__res_generic_nd__example_55959141808754".
-Error while reading cell "sky130_fd_pr__res_generic_nd__example_55959141808754" (byte position 541961136): Unknown layer/datatype in boundary, layer=65 type=14
-Reading "sky130_fd_io__xres_p_em1c_cdns_55959141808753".
-Reading "sky130_fd_io__xres2v2_rcfilter_lpfv2".
-    100 uses
-    200 uses
-    300 uses
-    400 uses
-    500 uses
-    600 uses
-Reading "sky130_fd_pr__res_bent_po__example_5595914180861".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_5595914180861" (byte position 542497530): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__com_res_weak_bentbigres".
-Reading "sky130_fd_io__tk_em1o_cdns_5595914180860".
-Reading "sky130_fd_io__com_res_weak".
-Reading "sky130_fd_pr__via_l1m1__example_5595914180857".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808378".
-Reading "sky130_fd_pr__hvdftpm1s2__example_55959141808649".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808651".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808650".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808648".
-Reading "sky130_fd_pr__hvdftpl1s__example_55959141808646".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808647".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808645".
-Reading "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2".
-Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2" (byte position 542540124): Unknown layer/datatype in boundary, layer=81 type=8
-Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270_xres4v2" (byte position 542541916): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__gpio_pddrvr_strong_xres4v2".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808787".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808786".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808782".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808785".
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808449".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808784".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808452".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808783".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808781".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808780".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808779".
-Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180827".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808233".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808778".
-Reading "sky130_fd_pr__hvdfm1sd__example_5595914180835".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808777".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808776".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808775".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808242".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808774".
-Reading "sky130_fd_pr__hvdfm1sd2__example_5595914180829".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808773".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808237".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808772".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808771".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808770".
-Reading "sky130_fd_pr__nfet_01v8__example_559591418089".
-Reading "sky130_fd_pr__nfet_01v8__example_559591418087".
-Reading "sky130_fd_pr__pfet_01v8__example_559591418085".
-Reading "sky130_fd_io__hvsbt_nand2".
-Reading "sky130_fd_pr__res_bent_nd__example_55959141808769".
-Error while reading cell "sky130_fd_pr__res_bent_nd__example_55959141808769" (byte position 543418468): Unknown layer/datatype in boundary, layer=65 type=14
-Reading "sky130_fd_pr__res_bent_po__example_55959141808768".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808768" (byte position 543421758): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__inv_1".
-Reading "sky130_fd_io__tap_1".
-Reading "sky130_fd_io__xres4v2_in_buf".
-Reading "sky130_fd_io__top_gpio_pad".
-Reading "sky130_fd_io__com_busses".
-Reading "sky130_fd_io__top_xres4v2".
-Reading "sky130_fd_io__com_bus_slice_m4".
-Reading "sky130_fd_io__overlay_gpiov2_m4".
-Reading "sky130_fd_io__overlay_gpiov2".
-Reading "sky130_fd_io__res75only_small".
-Error while reading cell "sky130_fd_io__res75only_small" (byte position 548873906): Unknown layer/datatype in boundary, layer=66 type=14
-Error while reading cell "sky130_fd_io__res75only_small" (byte position 548873970): Unknown layer/datatype in boundary, layer=81 type=19
-Reading "sky130_fd_pr__via_pol1_centered__example_559591418080".
-Reading "sky130_fd_pr__via_l1m1__example_5595914180832".
-Reading "sky130_fd_pr__via_pol1__example_5595914180854".
-Reading "sky130_fd_pr__res_generic_po__example_5595914180856".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180856" (byte position 548876746): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_generic_po__example_5595914180855".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180855" (byte position 548877312): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_generic_po__example_5595914180853".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_5595914180853" (byte position 548877878): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__tk_em1s_cdns_5595914180852".
-Reading "sky130_fd_pr__nfet_01v8__example_5595914180850".
-Reading "sky130_fd_io__gpio_pddrvr_strong_slowv2".
-Error while reading cell "sky130_fd_io__gpio_pddrvr_strong_slowv2" (byte position 548880020): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_pr__via_l1m1_centered__example_559591418085".
-Reading "sky130_fd_io__pfet_con_diff_wo_abt_270v2".
-Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270v2" (byte position 549198902): Unknown layer/datatype in boundary, layer=81 type=8
-Error while reading cell "sky130_fd_io__pfet_con_diff_wo_abt_270v2" (byte position 549200694): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__gpio_pudrvr_strongv2".
-Reading "sky130_fd_io__gpio_pddrvr_weakv2".
-Error while reading cell "sky130_fd_io__gpio_pddrvr_weakv2" (byte position 549922474): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808563".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808655".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808654".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808656".
-Reading "sky130_fd_io__com_pudrvr_weakv2".
-Error while reading cell "sky130_fd_io__com_pudrvr_weakv2" (byte position 549993266): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__com_pudrvr_strong_slowv2".
-Error while reading cell "sky130_fd_io__com_pudrvr_strong_slowv2" (byte position 550027418): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_pr__via_l1m1_centered__example_559591418083".
-Reading "sky130_fd_pr__via_l1m1_centered__example_559591418082".
-Reading "sky130_fd_io__nfet_con_diff_wo_abt_270v2".
-Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270v2" (byte position 550111704): Unknown layer/datatype in boundary, layer=81 type=8
-Error while reading cell "sky130_fd_io__nfet_con_diff_wo_abt_270v2" (byte position 550113496): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__gpiov2_pddrvr_strong".
-Reading "sky130_fd_io__gpio_odrvr_subv2".
-Reading "sky130_fd_io__gpio_odrvrv2".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808267".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808266".
-Reading "sky130_fd_pr__via_pol1__example_55959141808298".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808194".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808284".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808361".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808115".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808360".
-Reading "sky130_fd_io__feas_com_pupredrvr_weak".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808143".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808102".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808366".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808365".
-Reading "sky130_fd_io__com_pdpredrvr_weakv2".
-Reading "sky130_fd_pr__via_pol1__example_55959141808272".
-Reading "sky130_fd_pr__via_m1m2__example_55959141808271".
-Reading "sky130_fd_pr__via_l1m1__example_5595914180878".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808101".
-Reading "sky130_fd_pr__dfl1sd__example_5595914180811".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808142".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808100".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_5595914180899".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808144".
-Reading "sky130_fd_io__tk_em1o_cdns_5595914180880".
-Reading "sky130_fd_io__tk_em1s_cdns_5595914180882".
-Reading "sky130_fd_pr__tpl1__example_55959141808300".
-Reading "sky130_fd_pr__tpl1__example_55959141808299".
-Reading "sky130_fd_pr__via_pol1__example_55959141808297".
-Reading "sky130_fd_pr__via_pol1__example_55959141808296".
-Reading "sky130_fd_pr__via_pol1__example_55959141808295".
-Reading "sky130_fd_pr__via_pol1__example_55959141808294".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808293".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808292".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808291".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808122".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808319".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808318".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808317".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808315".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808314".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808313".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808312".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808311".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808306".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808310".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808278".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808309".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808308".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808282".
-Reading "sky130_fd_pr__hvdfl1sd__example_5595914180894".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808281".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808307".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808305".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808304".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808303".
-Reading "sky130_fd_io__tk_em1o_cdns_55959141808302".
-Reading "sky130_fd_io__tk_em1s_cdns_5595914180881".
-Reading "sky130_fd_io__tk_em1s_cdns_55959141808301".
-Reading "sky130_fd_io__feascom_pupredrvr_nbiasv2".
-    100 uses
-Reading "sky130_fd_pr__via_m1m2__example_55959141808276".
-Reading "sky130_fd_pr__via_pol1__example_55959141808275".
-Reading "sky130_fd_pr__res_generic_po__example_55959141808286".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_55959141808286" (byte position 551925122): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_generic_po__example_55959141808285".
-Error while reading cell "sky130_fd_pr__res_generic_po__example_55959141808285" (byte position 551925688): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808283".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808287".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808644".
-Reading "sky130_fd_io__gpiov2_pupredrvr_strong_nd2".
-Reading "sky130_fd_io__gpiov2_pupredrvr_strong_nd2_a".
-Reading "sky130_fd_io__gpio_pupredrvr_strongv2".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808363".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808362".
-Reading "sky130_fd_io__com_pupredrvr_strong_slowv2".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808364".
-Reading "sky130_fd_io__com_pdpredrvr_strong_slowv2".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808140".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808139".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808183".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808643".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808184".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808141".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808642".
-Reading "sky130_fd_pr__nfet_01v8__example_5595914180888".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808628".
-Reading "sky130_fd_io__gpiov2_octl_mux".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808325".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808323".
-Reading "sky130_fd_pr__via_pol1__example_55959141808322".
-Reading "sky130_fd_pr__via_pol1__example_55959141808321".
-Reading "sky130_fd_pr__via_pol1__example_55959141808320".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808641".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808640".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808639".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808348".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808347".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808346".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808345".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808344".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808343".
-Reading "sky130_fd_pr__dfl1sd__example_5595914180868".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808334".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808333".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808332".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808134".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808331".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808330".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808329".
-Reading "sky130_fd_io__tk_em1o_cdns_5595914180879".
-Reading "sky130_fd_io__tk_em1o_cdns_55959141808328".
-Reading "sky130_fd_io__tk_em1o_cdns_55959141808327".
-Reading "sky130_fd_io__com_pdpredrvr_pbiasv2".
-    100 uses
-Reading "sky130_fd_pr__dfl1sd2__example_5595914180884".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808638".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808637".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808123".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808636".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808630".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808106".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808481".
-Reading "sky130_fd_pr__dfl1sd2__example_5595914180875".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808635".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808634".
-Reading "sky130_fd_pr__dfl1sd2__example_55959141808633".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808632".
-Reading "sky130_fd_io__gpiov2_pdpredrvr_strong_nr3".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808116".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808631".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808629".
-Reading "sky130_fd_pr__dfl1sd2__example_5595914180812".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808627".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808626".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808354".
-Reading "sky130_fd_io__gpiov2_pdpredrvr_strong_nr2".
-Reading "sky130_fd_io__gpiov2_pdpredrvr_strong".
-Reading "sky130_fd_io__gpiov2_obpredrvr".
-Reading "sky130_fd_pr__via_pol1__example_55959141808394".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808434".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808435".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808433".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808432".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808431".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808430".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808429".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808428".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808427".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808383".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808382".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808380".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808379".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808426".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808425".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808280".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808424".
-Reading "sky130_fd_pr__dfl1sd2__example_5595914180816".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808423".
-Reading "sky130_fd_io__com_ctl_ls_octl".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808418".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808420".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808419".
-Reading "sky130_fd_io__hvsbt_nor".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808417".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808416".
-Reading "sky130_fd_io__hvsbt_xorv2".
-Reading "sky130_fd_io__hvsbt_xor".
-Reading "sky130_fd_io__gpiov2_octl".
-Reading "sky130_fd_pr__tpl1__example_55959141808625".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808368".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808401".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808269".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808399".
-Reading "sky130_fd_pr__via_pol1__example_55959141808398".
-Reading "sky130_fd_pr__via_pol1__example_55959141808397".
-Reading "sky130_fd_pr__via_pol1__example_55959141808396".
-Reading "sky130_fd_pr__via_pol1__example_55959141808395".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808410".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808409".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808408".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808407".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808406".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808405".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808404".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808403".
-Reading "sky130_fd_io__com_cclat".
-    100 uses
-Reading "sky130_fd_pr__tpl1__example_55959141808374".
-Reading "sky130_fd_pr__via_pol1__example_55959141808373".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808393".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808392".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808391".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808390".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808389".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808388".
-Reading "sky130_fd_pr__dfl1sd__example_5595914180815".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808387".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808386".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808384".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808381".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808377".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808376".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808375".
-Reading "sky130_fd_io__gpio_dat_lsv2".
-Reading "sky130_fd_io__gpio_dat_ls_1v2".
-Reading "sky130_fd_io__com_opath_datoev2".
-Reading "sky130_fd_io__gpiov2_octl_dat".
-Reading "sky130_fd_io__gpio_opathv2".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808624".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808510".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808623".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808622".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808621".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808620".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808619".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808618".
-Reading "sky130_fd_pr__dfl1sd__example_5595914180823".
-Reading "sky130_fd_pr__pfet_01v8__example_5595914180822".
-Reading "sky130_fd_pr__pfet_01v8__example_5595914180813".
-Reading "sky130_fd_io__com_ctl_lsv2".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808440".
-Reading "sky130_fd_io__com_ctl_ls_1v2".
-Reading "sky130_fd_io__tk_em2s_cdns_55959141808438".
-Reading "sky130_fd_io__tk_em2o_cdns_55959141808439".
-Reading "sky130_fd_io__com_ctl_ls_v2".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808617".
-Reading "sky130_fd_io__com_ctl_ls_en_1_v2".
-Reading "sky130_fd_io__gpiov2_ctl_lsbank".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808614".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808613".
-Reading "sky130_fd_io__hvsbt_inv_x8".
-Reading "sky130_fd_io__com_ctl_ls".
-Reading "sky130_fd_io__hvsbt_inv_x8v2".
-Reading "sky130_fd_io__com_ctl_hldv2".
-Reading "sky130_fd_io__gpiov2_ctl".
-Reading "sky130_fd_io__hvsbt_nand2v2".
-Reading "sky130_fd_io__gpiov2_ictl_logic".
-CIF file read warning: Input off lambda grid by 2/5; snapped to grid.
-Reading "sky130_fd_io__gpiov2_buf_localesd".
-Error while reading cell "sky130_fd_io__gpiov2_buf_localesd" (byte position 553154410): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_pr__dfl1sd2__example_55959141808518".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808517".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808607".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808550".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808533".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808528".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808504".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808600".
-Reading "sky130_fd_pr__dfl1sd__example_55959141808190".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808548".
-Reading "sky130_fd_pr__dfl1sd2__example_55959141808191".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808189".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808537".
-Reading "sky130_fd_io__gpiov2_ipath_hvls".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808611".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808549".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808610".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808604".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808609".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808529".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808230".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808608".
-Reading "sky130_fd_io__gpiov2_in_buf".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808595".
-Reading "sky130_fd_pr__nfet_01v8__example_5595914180825".
-Reading "sky130_fd_io__gpiov2_inbuf_lvinv_x1".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808547".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808546".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808599".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808598".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808597".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808596".
-Reading "sky130_fd_io__gpiov2_ipath_lvls".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808606".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808605".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808540".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808535".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808527".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808603".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808602".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808601".
-Reading "sky130_fd_io__gpiov2_vcchib_in_buf".
-Reading "sky130_fd_io__gpiov2_ibuf_se".
-Reading "sky130_fd_io__gpiov2_ipath".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808594".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808593".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808488".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808592".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808178".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808591".
-Reading "sky130_fd_io__gpiov2_amux_ctl_inv_1".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808468".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808467".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808466".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808465".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808464".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808463".
-Reading "sky130_fd_pr__hvdfl1sd__example_55959141808476".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808590".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808460".
-Reading "sky130_fd_io__gpiov2_amux_ctl_ls".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808570".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808569".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808589".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808475".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808477".
-Reading "sky130_fd_io__gpiov2_amux_ctl_lshv2hv".
-Reading "sky130_fd_pr__model__pfet_highvoltage__example_55959141808588".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808587".
-Reading "sky130_fd_io__gpiov2_amux_ctl_lshv2hv2".
-Reading "sky130_fd_pr__model__nfet_highvoltage__example_55959141808586".
-Reading "sky130_fd_io__gpiov2_amux_ls".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808451".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808200".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808450".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808457".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808248".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808447".
-Reading "sky130_fd_pr__dfm1sd__example_55959141808258".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808446".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808445".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808585".
-Reading "sky130_fd_io__gpiov2_amux_nand4".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808455".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808584".
-Reading "sky130_fd_io__gpiov2_amux_nand5".
-Reading "sky130_fd_io__nor2_1".
-Reading "sky130_fd_io__nand2_1".
-Reading "sky130_fd_io__xor2_1".
-Reading "sky130_fd_io__gpiov2_amux_decoder".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808498".
-Reading "sky130_fd_pr__hvdfl1sd2__example_55959141808462".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808583".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808582".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808497".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808496".
-Reading "sky130_fd_pr__hvdfm1sd__example_55959141808581".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808580".
-Reading "sky130_fd_io__gpiov2_amux_drvr_ls".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808579".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808578".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808577".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808576".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808575".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808574".
-Reading "sky130_fd_io__amx_inv1".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808573".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808572".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808568".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808567".
-Reading "sky130_fd_io__gpiov2_amux_drvr_lshv2hv".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808441".
-Reading "sky130_fd_pr__dfl1sd2__example_5595914180869".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808571".
-Reading "sky130_fd_io__gpiov2_amx_inv4".
-Reading "sky130_fd_io__gpiov2_amux_drvr_lshv2hv2".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808566".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808565".
-Reading "sky130_fd_io__gpiov2_amx_pucsd_inv".
-Reading "sky130_fd_io__gpiov2_amux_drvr".
-Reading "sky130_fd_io__gpiov2_amux_ctl_logic".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808564".
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808562".
-Reading "sky130_fd_pr__dfm1sd2__example_55959141808561".
-Reading "sky130_fd_pr__hvdfm1sd2__example_55959141808251".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808560".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808558".
-Reading "sky130_fd_io__amux_switch_1v2b".
-Error while reading cell "sky130_fd_io__amux_switch_1v2b" (byte position 554256720): Unknown layer/datatype in boundary, layer=81 type=6
-Reading "sky130_fd_io__gpiov2_amux".
-Reading "sky130_fd_io__top_gpiov2".
-Reading "sky130_ef_io__gpiov2_pad".
-Reading "sky130_ef_io__gpiov2_pad_wrapped".
-Reading "sky130_fd_pr__tpl1__example_55959141808686".
-Reading "sky130_fd_pr__tpl1__example_55959141808685".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808684".
-Reading "sky130_fd_pr__via_l1m1__example_55959141808683".
-Reading "sky130_fd_io__gnd2gnd_strap".
-Reading "sky130_fd_io__gnd2gnd_diff".
-Reading "sky130_fd_io__gnd2gnd_tap".
-Reading "sky130_fd_io__gnd2gnd_sub_dnwl".
-Reading "sky130_fd_io__gnd2gnd_120x2_lv_isosub".
-Error while reading cell "sky130_fd_io__gnd2gnd_120x2_lv_isosub" (byte position 556833488): Unknown layer/datatype in boundary, layer=81 type=19
-Reading "sky130_fd_pr__pfet_01v8__example_55959141808687".
-Reading "sky130_fd_pr__res_bent_po__example_55959141808691".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808691" (byte position 556843446): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_bent_po__example_55959141808690".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808690" (byte position 556845144): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__dfl1__example_55959141808682".
-Reading "sky130_fd_pr__dftpl1s2__example_55959141808702".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808705".
-Reading "sky130_fd_pr__dfl1__example_55959141808681".
-Reading "sky130_fd_pr__dftpl1s2__example_55959141808694".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808693".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808697".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808698".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808696".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808699".
-Reading "sky130_fd_pr__res_bent_po__example_55959141808688".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808688" (byte position 556907528): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808695".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808704".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808703".
-Reading "sky130_fd_pr__nfet_01v8__example_55959141808701".
-Reading "sky130_fd_pr__res_bent_po__example_55959141808689".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808689" (byte position 556963766): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_pr__res_bent_po__example_55959141808692".
-Error while reading cell "sky130_fd_pr__res_bent_po__example_55959141808692" (byte position 556965464): Unknown layer/datatype in boundary, layer=66 type=14
-Reading "sky130_fd_io__top_ground_lvc_wpad".
-    100 uses
-    200 uses
-    300 uses
-    400 uses
-Reading "sky130_fd_io__overlay_vssd_lvc".
-Reading "sky130_ef_io__vssd_lvc_pad".
-Reading "sky130_fd_io__overlay_vssio_hvc".
-Reading "sky130_ef_io__vssio_hvc_pad".
-Reading "sky130_fd_io__hvc_clampv2".
-    100 uses
-Reading "sky130_fd_io__top_power_hvc_wpadv2".
-Reading "sky130_fd_io__overlay_vdda_lvc".
-Reading "sky130_ef_io__vdda_hvc_pad".
-Reading "sky130_fd_io__top_power_lvc_wpad".
-    100 uses
-    200 uses
-    300 uses
-    400 uses
-Reading "sky130_fd_io__overlay_vccd_lvc".
-Reading "sky130_ef_io__vccd_lvc_pad".
-Reading "sky130_ef_io__disconnect_vdda_slice_5um".
-Reading "sky130_ef_io__disconnect_vccd_slice_5um".
-Reading "sky130_fd_io__overlay_vddio_hvc".
-Reading "sky130_ef_io__vddio_hvc_pad".
-Reading "chip_io".
-    100 uses
-    200 uses
-    300 uses
-    400 uses
-    500 uses
-    600 uses
-    700 uses
-    800 uses
 Reading "caravel".
 [INFO]: Loading caravel
 

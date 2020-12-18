@@ -2955,8 +2955,8 @@ chip_io: 10000 rects
 Processing timestamp mismatches: chip_io, mgmt_protect, user_id_programming, storage, mgmt_core, sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped, simple_por, gpio_control_block.
 DRC style is now "drc(full)"
 Loading DRC CIF style.
-[INFO]: COUNT: 142
+[INFO]: COUNT: 71
 [INFO]: Should be divided by 3 or 4
-[INFO]: DRC Checking DONE (/home/hadirkhan10/Desktop/ibtida-soc-current/checks/caravel.magic.drc)
-[INFO]: Saving mag view with DRC errors(/home/hadirkhan10/Desktop/ibtida-soc-current/checks/caravel.magic.drc.mag)
+[INFO]: DRC Checking DONE (/home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/checks/caravel.magic.drc)
+[INFO]: Saving mag view with DRC errors(/home/hadirkhan10/Desktop/ibtida-soc-mpw-one-b/checks/caravel.magic.drc.mag)
 [INFO]: Saved

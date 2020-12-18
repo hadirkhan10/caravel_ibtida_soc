@@ -1,13 +1,13 @@
-chip_io.mag: FAILED
+chip_io.mag: OK
 digital_pll.mag: OK
 gpio_control_block.mag: OK
-mgmt_core.mag: FAILED
-mgmt_protect.mag: FAILED
-mgmt_protect_hv.mag: FAILED open or read
-mprj2_logic_high.mag: FAILED open or read
-mprj_logic_high.mag: FAILED open or read
+mgmt_core.mag: OK
+mgmt_protect.mag: OK
+mgmt_protect_hv.mag: OK
+mprj2_logic_high.mag: OK
+mprj_logic_high.mag: OK
 simple_por.mag: OK
-sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.mag: FAILED
+sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.mag: OK
 sram_1rw1r_32_256_8_sky130.mag: OK
 storage.mag: OK
 user_id_programming.mag: OK
