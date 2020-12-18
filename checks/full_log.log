@@ -1,0 +1,104 @@
+FULL RUN LOG:
+ Uncompressing the gds files
+Step 0 done without fatal errors.
+ Executing Step 1 of 4: Checking License files.
+{{LICENSE COMPLIANCE PASSED}} Apache-2.0 LICENSE file was found in project root
+ No third party libraries found.
+Step 1 done without fatal errors.
+{{SPDX COMPLIANCE WARNING}} Found 2606 non-compliant files with the SPDX Standard. Check full log for more information
+SPDX COMPLIANCE: NON-COMPLIANT FILES PREVIEW: ['/home/hadirkhan10/Desktop/ibtida-soc-current/.travis.yml', '/home/hadirkhan10/Desktop/ibtida-soc-current/mpw-one-a.md', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Makefile', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/chip_dimensions.txt', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/README.md', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/pdn.tcl', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/interactive.tcl.orig', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/ibtida_flow.tcl', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/config.tcl', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/src/Ibtida_top_dffram_cv.sdc', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/src/DFFRAM.v', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/src/Ibtida_top_dffram_cv.v', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/src/syn.sdc', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/src/DFFRAMBB.v', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/config.tcl', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/reports/runtime.txt', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/reports/placement/replace.rpt', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/reports/placement/replace.min_max.rpt', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/reports/placement/replace_tns.rpt', '/home/hadirkhan10/Desktop/ibtida-soc-current/openlane/Ibtida_top_dffram_cv/runs/Ibtida_top_dffram_cv/reports/placement/replace.timing.rpt']
+ Executing Step 2 of 4: Checking YAML description.
+ YAML file valid!
+Step 2 done without fatal errors.
+ Executing Step 3 of 4: Executing Fuzzy Consistency Checks.
+b'Going into /home/hadirkhan10/Desktop/ibtida-soc-current/verilog/rtl'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+b'Going into /home/hadirkhan10/Desktop/ibtida-soc-current/maglef'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+b'Going into /home/hadirkhan10/Desktop/ibtida-soc-current/mag'
+b'Removing manifest'
+b'Fetching manifest'
+b'Running sha1sum checks'
+ Manifest Checks Failed. Please rebase your Repository to the latest Caravel master.
+caravel_clocking.v: FAILED
+caravel.v: FAILED
+chip_io.v: FAILED
+clock_div.v: FAILED
+convert_gpio_sigs.v: FAILED
+counter_timer_high.v: FAILED
+counter_timer_low.v: FAILED
+DFFRAMBB.v: FAILED
+DFFRAM.v: FAILED
+digital_pll_controller.v: FAILED
+digital_pll.v: FAILED
+gpio_control_block.v: FAILED
+gpio_wb.v: FAILED
+housekeeping_spi.v: FAILED
+la_wb.v: FAILED
+mem_wb.v: FAILED
+mgmt_core.v: FAILED
+mgmt_protect_hv.v: FAILED
+mgmt_protect.v: FAILED
+mprj2_logic_high.v: FAILED open or read
+mprj_ctrl.v: FAILED
+mprj_io.v: FAILED
+mprj_logic_high.v: FAILED open or read
+pads.v: FAILED
+ring_osc2x13.v: FAILED
+simple_por.v: FAILED
+simple_spi_master.v: FAILED
+sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.v: FAILED
+sram_1rw1r_32_256_8_sky130.v: FAILED
+storage_bridge_wb.v: FAILED
+storage.v: FAILED
+sysctrl.v: FAILED
+wb_intercon.v: FAILED
+chip_io.mag: FAILED
+mgmt_core.mag: FAILED
+mgmt_protect.mag: FAILED
+mgmt_protect_hv.mag: FAILED open or read
+mprj2_logic_high.mag: FAILED open or read
+mprj_logic_high.mag: FAILED open or read
+sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.mag: FAILED
+caravel.mag: FAILED
+.magicrc: FAILED
+ Documentation Checks Passed.
+ Makefile Checks Passed.
+instance caravel found
+instance user_project_wrapper found
+Design is complex and contains: 47 modules
+Design is complex and contains: 2 modules
+verilog Consistency Checks Passed.
+ Basic Hierarchy Checks Passed.
+ Running Magic Extractions From GDS...
+user wrapper cell names differences: 
+[]
+user wrapper cell type differences: 
+[]
+toplevel cell names differences: 
+[]
+toplevel cell type differences: 
+[]
+GDS Hierarchy Check Passed
+GDS Checks Passed
+{PROGRESS} Running Pins and Power Checks...
+Pins check passed
+Internal Power Checks Passed!
+ Fuzzy Consistency Checks Passed!
+Step 3 done without fatal errors.
+ Executing Step 4 of 4: Checking DRC Violations.
+ Running DRC Checks...
+Violation Message "Metal4 > 3um spacing to unrelated m4 < 0.4um (met4.5b) "found 13 Times.
+Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 10 Times.
+Violation Message "Can't overlap those layers "found 5 Times.
+Violation Message "Min area of metal2 holes > 0.14um^2 (met2.7) "found 20 Times.
+Violation Message "Metal3 spacing < 0.3um (met3.2) "found 50 Times.
+Violation Message "Metal3 width < 0.3um (met3.1) "found 1 Times.
+Violation Message "Metal2 > 3um spacing to unrelated m2 < 0.28um (met2.3b) "found 24 Times.
+Violation Message "Metal1 > 3um spacing to unrelated m1 < 0.28um (met1.3b) "found 19 Times.
+ DRC Checks on MAG Failed, Reason: Total # of DRC violations is 142
+TEST FAILED AT STEP 4
