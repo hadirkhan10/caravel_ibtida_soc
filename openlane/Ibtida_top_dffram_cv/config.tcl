@@ -28,7 +28,7 @@ set ::env(FP_CORE_UTIL) 50
 set ::env(PL_TARGET_DENSITY) 0.6
 set ::env(DESIGN_IS_CORE) 0
 set ::env(GLB_RT_MAXLAYER) 5
-
+set ::env(GLB_RT_ADJUSTMENT) 0.3
 set ::env(FP_PDN_CORE_RING) 0
 set ::env(FP_PIN_ORDER_CFG) $::env(DESIGN_DIR)/pin_order.cfg
 set ::env(SYNTH_STRATEGY) 2
