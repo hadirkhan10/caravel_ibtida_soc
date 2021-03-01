@@ -1,10 +1,10 @@
 --- 
 project: 
-  description: "This is a minimal SoC built around a RISC-V based 5 stage pipelined core Buraq-Mini."
+  description: "System on a Chip built around a RISC-V based 5 stage pipelined core Buraq-Mini."
   foundry: "SkyWater"
   git_url: "https://github.com/hadirkhan10/caravel_ibtida_soc.git"
-  organization: "Efabless"
-  organization_url: "https://efabless.com"
+  organization: "Micro-Electronics Research Laboratory"
+  organization_url: "https://merledupk.org"
   owner: "Hadir Khan"
   process: "SKY130"
   project_name: "Ibtida SoC"
